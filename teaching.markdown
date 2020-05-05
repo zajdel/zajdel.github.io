@@ -1,0 +1,17 @@
+---
+layout: page
+title: Teaching
+permalink: /teaching/
+---
+
+I believe that design experiences enrich students from all disciplines, from biology to the humanities, 
+because design makes us engage in critical thinking about technology and its influence on the society that shapes us. 
+I have been able to work on several meaningful curruciular design projects towards my goal for broadening participation in engineering and design.
+
+<!--## Projects
+# *EE40LX*: Analog circuits MOOC for the world
+
+# *Applied Electrical I*: Practical laboratory curriculum for heavy machinery technicians
+
+## Experience
+-->

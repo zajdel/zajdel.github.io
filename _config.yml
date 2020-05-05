@@ -33,7 +33,15 @@ google_analytics: UA-36603967-1
 theme: minima
 plugins:
   - jekyll-feed
-  # Exclude from processing.
+  
+header_pages:
+  - bio.markdown
+  - research.markdown
+  - teaching.markdown
+  - publications.markdown
+  - cv.markdown
+  
+# Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
 # the internal "default list".

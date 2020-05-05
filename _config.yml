@@ -24,9 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Tom Zajdel is an electrical engineer who builds devices that interface electronic systems with living matter.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "zajdel" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/zajdel.github.io"
 twitter_username: tomzajdel
 github_username:  zajdel
+markdown: kramdown
 
 # Build settings
 theme: minima

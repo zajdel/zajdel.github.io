@@ -4,6 +4,9 @@ title: Bio
 permalink: /bio/
 ---
 
+<img src="/img/bio_banner.png" alt="Building a robot for online circuits course">
+
+
 After growing up near Cincinnati, OH, I attended (The) Ohio State University, where I graduated with a B.S. in Electrical and Computer Engineering with concentrations in electromagnetics and digital signal processing.
 My thesis worked on cochlear implant speech processing, implementing asynchronous interleaved stimulation, in an attempt to improve the perception of intonation for cochlear implant users.
 

@@ -14,23 +14,22 @@ or even control these processes for sensing, manufacturing, or medical applicati
 There's a complication: the wet, salty electrochemistry that comprises most bioelectric systems is not immediately
 compatible with the integrated circuits that drive our digital world.
 Care must be taken at the interface between electronics and living organisms to keep both the electronics and organisms happy.
-This interface has been at the core of my research work, whether it involves the electroactive bacteria *Shewanella oneidensis* 
-or mamallian cells sheepherded in a petri dish.
-I am engineering devices that use this bioelectrical connection to augment these biological systems for biosensing or medicine.
+This interface has been at the core of my research work, whether it involves the electroactive bacterium *Shewanella oneidensis* 
+or skin cells sheepherded in a petri dish.
+I am engineering devices that use this bioelectrical connection to augment these biological systems for biosensing and medical applications.
 
 ## Current
 # SCHEEPDOG: Steering cell motion with electrical stimulation
-<!--<p align="center">
-<img src="scheepdog.gif"></img>
-</p>-->
-I developed SCHEEPDOG, a device that to exploit ‘electrotaxis,’ the ability of 
-cells to direct motion along electric fields, to shepherd cell migration. SCHEEPDOG uses two 
+<video autoplay loop title="Steering mouse keratinocytes (skin cells) through a circular trajectory using a rotating electric field." src="/img/scheepdog.mp4"></video>
+
+I developed SCHEEPDOG, a device that exploits **electrotaxis**, the ability of 
+cells to sense electric fields and follow them, to shepherd cell migration. SCHEEPDOG uses two 
 orthogonal electrode pairs, one vertical and one horizontal, to create a composite field direction. 
 By adjusting field directions over time, cells can be herded along arbitrary trajectories, akin to 
-how an ‘Etch A Sketch’ traces out a picture via two independent control knobs. With SCHEEPDOG,
+how an ‘Etch A Sketch’ traces out a picture via two control knobs. With SCHEEPDOG,
 we have induced a potpourri of novel dynamic maneuvers in skin and kidney cells: 90-degree 
-turns, diagonals, sinusoids, and circles. The level of control demonstrated suggests that cells 
-effectively time-average electric field cues, which helps to clarify the time scales involved in the 
+turns, diagonals, sinusoids, and circles (pictured above). The level of control demonstrated suggests that cells 
+effectively time-average electric field cues on the order of \~5 minutes, which helps to clarify the time scales involved in the 
 biological response. Because electrotaxis has been documented across diverse systems including 
 at least 20 mammalian cell types, slime molds, fish, and frogs, our platform represents a control 
 approach with potentially broad utility in many arenas.

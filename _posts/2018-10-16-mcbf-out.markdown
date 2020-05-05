@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Our MCBF paper is out in Scientific Reports"
+date:   2018-10-16 18:25:48 -0400
+categories: research
+---
+
+Our paper, "PEDOT:PSS-based Multilayer Bacterial-Composite Films for Bioelectronics" is now out in *Scientific Reports*.
+This project started with a random conversation over coffee with Moshe Baruch and Gábor Méhes at the Molecular Foundry at LBL. 
+Gábor was here from Linkoping University, visiting Caroline Ajo-Franklin's lab for several months, to work on getting *Shewanella oneidensis* to play with PEDOT:PSS.
+We ended up electropolymerizing the organic conductor around living bacteria to create a multilayer conductive bacterial-composite film (MCBF for short).
+I'm proud about how this ended up coming together!
+
+[You can read the paper here.](https://www.nature.com/articles/s41598-018-33521-9)

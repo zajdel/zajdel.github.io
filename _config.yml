@@ -27,12 +27,12 @@ url: "zajdel" # the base hostname & protocol for your site, e.g. http://example.
 twitter_username: tomzajdel
 github_username:  zajdel
 markdown: kramdown
+google_analytics: UA-36603967-1
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
   # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

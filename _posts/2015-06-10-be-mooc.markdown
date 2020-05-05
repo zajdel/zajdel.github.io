@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "EE40LX in the Berkeley Engineer"
+date:   2016-06-21 19:07:08 -0400
+categories: teaching
+---
+
+EE40LX - Electronic Interfaces is in the Berkeley Engineer with a nice feature on learner stories.
+Check out the neat robots some of our students made! Article here: [To teach the world robotics](https://engineering.berkeley.edu/2015/06/teach-world-robotics).

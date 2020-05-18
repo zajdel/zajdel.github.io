@@ -4,14 +4,23 @@ title: Teaching
 permalink: /teaching/
 ---
 
-<!--I believe that design experiences enrich students from all disciplines, from biology to the humanities, 
-because design makes us engage in critical thinking about technology and its influence on the society that shapes us. 
+I believe that design experiences enrich students from all disciplines, from biology to the humanities, 
+because the design process requires that we engage in critical thinking about technology and its influence on the society that shapes us.
 
 ## Projects
-# *EE40LX*: Analog circuits MOOC for the world
+# *EE40LX*: Analog circuits MOOC for all
+<img width="700" title="EE40LX: Electronic Interfaces" src="/img/ee40lx_banner.png">
 
-# *Applied Electrical I*: Practical laboratory curriculum for heavy machinery technicians
--->
+With [Prof. Michel Maharbiz](https://maharbizgroup.wordpress.com/), I co-taught *EE40LX*, a lab-based massive open online course (MOOC) about analog electronics which ran from 2015-2016.
+The purpose of this course was to introduce the fundamentals of electronics to a broad global audience.
+By following along with the course, students built a simple robot from scratch using a microcontroller and common electronics parts and houshold items.
+Over 80000 students enrolled from over 190 nations, and >2200 students completed the course, [with >850 robots built](https://www.youtube.com/results?search_query=ee40lx+robot).
+- **T.J. Zajdel** and M.M. Maharbiz, [_Introducing electronics at scale with a massive online circuits lab_](https://peer.asee.org/introducing-electronics-at-scale-with-a-massive-online-circuits-lab), *Proceedings of 123rd ASEE Annual Conference and Exposition*, June 2016. 
+- D. McGlynn, [_To teach the world robotics_](https://engineering.berkeley.edu/news/2015/06/to-teach-the-world-robotics/), *Berkeley Engineer*, June 2015.
+- A. Pizano, [_Berkeley MOOC offers hardware-based engineering training_](https://e2e.ti.com/blogs_/archives/b/designproject/archive/2014/10/16/berkeley-mooc-offers-hardware-based-engineering-training-for-all), *E2E Texas Instruments*, October 2014.
+
+<!--# *Applied Electrical I*: Practical laboratory curriculum for heavy machinery technicians-->
+
 ## Experience
 
 | Date | Course | Role | Location |

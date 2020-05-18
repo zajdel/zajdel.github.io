@@ -20,7 +20,7 @@ I am engineering devices that use this bioelectrical connection to augment these
 
 ## Current
 # SCHEEPDOG: Steering cell motion with electrical stimulation
-<video autoplay loop title="Steering mouse keratinocytes (skin cells) through a circular trajectory using a rotating electric field." src="/img/scheepdog.mp4"></video>
+<video autoplay loop width="700" title="Steering mouse keratinocytes (skin cells) through a circular trajectory using a rotating electric field." src="/img/scheepdog.mp4"></video>
 
 I developed SCHEEPDOG, a device that exploits **electrotaxis**, the ability of 
 cells to sense electric fields and follow them, to shepherd cell migration. SCHEEPDOG uses two 

@@ -9,7 +9,7 @@ because the design process requires that we engage in critical thinking about te
 
 ## Projects
 # *EE40LX*: Analog circuits MOOC for all
-<img width="700" title="EE40LX: Electronic Interfaces" src="/img/ee40lx_banner.PNG">
+<img width="700" title="EE40LX: Electronic Interfaces" src="/img/ee40lx_banner.png">
 
 With [Prof. Michel Maharbiz](https://maharbizgroup.wordpress.com/), I co-taught *EE40LX*, a lab-based massive open online course (MOOC) about analog electronics which ran from 2015-2016.
 The purpose of this course was to introduce the fundamentals of electronics to a broad global audience.

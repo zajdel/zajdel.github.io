@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 # Under Review
-- M.H. Heinrich, J.M. LaChance, **T.J. Zajdel**, R. Alert, A. Košmrlj, D.J. Cohen, [_Tissue size controls patterns of cell proliferation and migration in freely-expanding epithelia_](https://doi.org/10.1101/2020.02.28.970418), submitted 2020.
+- M.H. Heinrich, R. Alert, J.M. LaChance, **T.J. Zajdel**, A. Košmrlj, D.J. Cohen, [_Size-dependent patterns of cell proliferation and migration in freely-expanding epithelia_](https://doi.org/10.1101/2020.02.28.970418), submitted 2020.
 
 # Journal Publications
 - **T.J. Zajdel\***, G. Shim\*, L. Wang, A. Rossello-Martinez, D.J. Cohen, [_SCHEEPDOG: programming electric cues to dynamically herd large-scale cell migration_](https://doi.org/10.1101/2019.12.20.884510), *Cell Systems*, in press.

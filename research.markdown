@@ -36,14 +36,14 @@ approach with potentially broad utility in many arenas.
 
 # People's Ventilator Project
 
-During the initial stages of the COVID-19 pandemic, there was an unmet 
+During the worst stages of the COVID-19 pandemic, there was an unmet 
 global need for easily manufactured, rapidly deployable mechanical 
-ventilators. The People's Ventilator Project was started to meet this 
-need, bringing researchers together across Princeton University and 
+ventilators. The People's Ventilator Project was started to meet this need, bringing 
+researchers together across Princeton University and 
 beyond to design an open-source, replicable ventilator that could adapt 
 to shifting global supply chains. I developed printed circuit boards to 
-interface the required pressure and flow sensors and valves with a 
-Raspberry Pi. I am also carrying out standard testing to certify the 
+interface pressure and flow sensors and valves with a 
+Raspberry Pi to control the system. I am also carrying out standard testing to certify the 
 ventilator for emergency use. Contributing to this project has been a 
 great honor, and I would like to acknowledge the fantastic team: 
 Julienne 
@@ -51,7 +51,13 @@ LaChance, Daniel Cohen, Daniel Notterman, Lorenzo Seirup, Chase
 Marshall, Grant Wallace, Jonny Saunders, 
 Manuel Schottdorf, Zhenyu Song, Al Gaillard, Sophie Dvali, and Moritz 
 Kuett.
-
+- D. Krakow, [_Tom 
+Zajdel: From Skin 
+Wounds to Ventilators_](https://mae.princeton.edu/about-mae/spotlight/tom-zajdel-skin-wounds-ventilators), 
+Princeton MAE Spotlight, June 2020.
+- C. Sayre, [_Julienne LaChance: Sharing Accessible Ventilator Plans with the 
+World_](https://mae.princeton.edu/about-mae/spotlight/julienne-lachance-sharing-accessible-ventilator-plans-world), 
+Princeton MAE Spotlight, June 2020.
 
 <!--## Past
 # Flagellar motor observation for electronic biosensing

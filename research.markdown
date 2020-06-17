@@ -34,6 +34,12 @@ biological response. Because electrotaxis has been documented across diverse sys
 at least 20 mammalian cell types, slime molds, fish, and frogs, our platform represents a control 
 approach with potentially broad utility in many arenas.
 
+# People's Ventilator Project
+
+During the initial stages of the COVID-19 pandemic, there was an unmet need for easily manufactured,
+rapidly deployable mechanical ventilators. 
+
+
 <!--## Past
 # Flagellar motor observation for electronic biosensing
 During bacterial chemotaxis, *Escherichia coli* monitors chemical changes in its environment and modulates the rotation of the **bacterial flagellar motor** (BFM) to bias its motility towards nutrients in its environment.

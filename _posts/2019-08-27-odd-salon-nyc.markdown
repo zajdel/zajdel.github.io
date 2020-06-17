@@ -6,9 +6,9 @@ categories: outreach
 ---
 
 I gave a talk at Odd Salon NYC. The topic was J.R. Brinkley, a medical charlatan and
-a radio broadcast pioneer, who built the strongest broadcast station in history
+a radio broadcast pioneer who built the strongest broadcast station in history
 to blanket the US and beyond with faulty medical advice, peddle his snake oil remedies,
-and advertise his goat glant implant surgery.
+and advertise his goat gland implant surgery.
 
 Brinkley pioneered the modern radio broadcast, popularized country music, and
 single-handedly wrote the playbook for mass media politics with his failed run

@@ -19,7 +19,14 @@ Over 80000 students enrolled from over 190 nations, and >2200 students completed
 - D. McGlynn, [_To teach the world robotics_](https://engineering.berkeley.edu/news/2015/06/to-teach-the-world-robotics/), *Berkeley Engineer*, June 2015.
 - A. Pizano, [_Berkeley MOOC offers hardware-based engineering training_](https://e2e.ti.com/blogs_/archives/b/designproject/archive/2014/10/16/berkeley-mooc-offers-hardware-based-engineering-training-for-all), *E2E Texas Instruments*, October 2014.
 
-<!--# *Applied Electrical I*: Practical laboratory curriculum for heavy machinery technicians-->
+# *Applied Electrical Courses*: Practical laboratory curriculum for technicians
+<img width="700" title="EE40LX: Electronic Interfaces" src="/img/nortec_banner.png">
+During spring 2016, I consulted with [ZAMITA](https://lkdfacility.org/zamita-zambia/) to develop hands-on 
+laboratory curriculum to teach practical electronics to
+mechanics-in-training in Zambia's Northern Technical College (NORTEC). The course used best practices in 
+problem-based learning to develop prototyping and circuit debugging skills to prepare trainees for entry in the growing excavation and transport industries.
+I also faciliated an on-site workshop with instructors on laboratory pedagogy and lecturing techniques for this material.
+- [ZAMITA, Zambia: Public-Private Development Partnership](https://lkdfacility.org/zamita-zambia/)
 
 ## Experience
 

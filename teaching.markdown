@@ -21,6 +21,7 @@ Over 80000 students enrolled from over 190 nations, and >2200 students completed
 
 # *Applied Electrical I*: Practical laboratory curriculum for technicians
 <img width="700" title="EE40LX: Electronic Interfaces" src="/img/nortec_banner.PNG">
+
 During spring 2016, I consulted with [ZAMITA](https://lkdfacility.org/zamita-zambia/) to develop hands-on 
 laboratory curriculum to teach practical electronics to
 mechanics-in-training in Zambia's Northern Technical College (NORTEC). The course used best practices in 

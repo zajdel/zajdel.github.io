@@ -19,7 +19,7 @@ Over 80000 students enrolled from over 190 nations, and >2200 students completed
 - D. McGlynn, [_To teach the world robotics_](https://engineering.berkeley.edu/news/2015/06/to-teach-the-world-robotics/), *Berkeley Engineer*, June 2015.
 - A. Pizano, [_Berkeley MOOC offers hardware-based engineering training_](https://e2e.ti.com/blogs_/archives/b/designproject/archive/2014/10/16/berkeley-mooc-offers-hardware-based-engineering-training-for-all), *E2E Texas Instruments*, October 2014.
 
-# *Applied Electrical Courses*: Practical laboratory curriculum for technicians
+# *Applied Electrical I*: Practical laboratory curriculum for technicians
 <img width="700" title="EE40LX: Electronic Interfaces" src="/img/nortec_banner.PNG">
 During spring 2016, I consulted with [ZAMITA](https://lkdfacility.org/zamita-zambia/) to develop hands-on 
 laboratory curriculum to teach practical electronics to

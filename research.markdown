@@ -33,6 +33,8 @@ effectively time-average electric field cues on the order of \~5 minutes, which 
 biological response. Because electrotaxis has been documented across diverse systems including 
 at least 20 mammalian cell types, slime molds, fish, and frogs, our platform represents a control 
 approach with potentially broad utility in many arenas.
+- **T.J. Zajdel\***, G. Shim\*, L. Wang, A. Rossello-Martinez, D.J. Cohen, [_SCHEEPDOG: programming electric cues to dynamically herd large-scale cell migration_](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30194-0), *Cell Systems*, vol. 10, no. 6, pp. 506-514, 2020.
+- M. Sharlach, [_Researchers use electric fields to herd cells like flocks of sheep_](https://engineering.princeton.edu/news/2020/06/24/researchers-use-electric-fields-herd-cells-flocks-sheep-0), Princeton Engineering, June 2020.
 
 # People's Ventilator Project
 

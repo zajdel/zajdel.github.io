@@ -20,7 +20,7 @@ I am engineering devices that use this bioelectrical connection to augment these
 
 ## Current
 # SCHEEPDOG: Steering cell motion with electrical stimulation
-<video autoplay loop width="700" title="Steering mouse keratinocytes (skin cells) through a circular trajectory using a rotating electric field." src="/img/scheepdog.mp4"></video>
+<video autoplay loop width="100%" title="Steering mouse keratinocytes (skin cells) through a circular trajectory using a rotating electric field." src="/img/scheepdog.mp4"></video>
 
 I developed SCHEEPDOG, a device that exploits **electrotaxis**, the ability of 
 cells to sense electric fields and follow them, to shepherd cell migration. SCHEEPDOG uses two 
@@ -38,6 +38,11 @@ approach with potentially broad utility in many arenas.
 
 # People's Ventilator Project
 
+<video width="100%" autoplay loop>
+  <source src="/img/ventilator.mp4" type="video/mp4">
+Video of a rotating ventilator
+</video>
+
 During the worst stages of the COVID-19 pandemic, there was an unmet 
 global need for easily manufactured, rapidly deployable mechanical 
 ventilators. The People's Ventilator Project was started to meet this need, bringing 
@@ -53,12 +58,10 @@ LaChance, Daniel Cohen, Daniel Notterman, Lorenzo Seirup, Chase
 Marshall, Grant Wallace, Jonny Saunders, 
 Manuel Schottdorf, Zhenyu Song, Al Gaillard, Sophie Dvali, and Moritz 
 Kuett.
+- [People's Ventilator Project Documentation](https://pvp.readthedocs.io/en/latest/)
 - D. Krakow, [_Tom 
 Zajdel: From Skin 
 Wounds to Ventilators_](https://mae.princeton.edu/about-mae/spotlight/tom-zajdel-skin-wounds-ventilators), 
-Princeton MAE Spotlight, June 2020.
-- C. Sayre, [_Julienne LaChance: Sharing Accessible Ventilator Plans with the 
-World_](https://mae.princeton.edu/about-mae/spotlight/julienne-lachance-sharing-accessible-ventilator-plans-world), 
 Princeton MAE Spotlight, June 2020.
 
 <!--## Past

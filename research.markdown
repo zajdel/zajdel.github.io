@@ -58,7 +58,7 @@ LaChance, Daniel Cohen, Daniel Notterman, Lorenzo Seirup, Chase
 Marshall, Grant Wallace, Jonny Saunders, 
 Manuel Schottdorf, Zhenyu Song, Al Gaillard, Sophie Dvali, and Moritz 
 Kuett.
-- [People's Ventilator Project Documentation](https://pvp.readthedocs.io/en/latest/)
+- [People's Ventilator Project Documentation](peoplesvent.org)
 - D. Krakow, [_Tom 
 Zajdel: From Skin 
 Wounds to Ventilators_](https://mae.princeton.edu/about-mae/spotlight/tom-zajdel-skin-wounds-ventilators), 

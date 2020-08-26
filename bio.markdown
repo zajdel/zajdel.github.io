@@ -15,4 +15,4 @@ While at Cal, I also taught and developed curricula for courses in electronic ci
 
 Now I'm at Princeton University, working in Daniel Cohen's Biointerfaces group, where I build devices to electrically stimulate tissues to control their growth and movement in vitro.
 
-When I'm not in the lab or classroom, I enjoy running, playing board games, goofing around with radios, and listening to [Kurt](/img/kurt.jpg) (my pet hamster) exercise at night.
+When I'm not in the lab or classroom, I enjoy running, gardening, amateur radio, and board games.

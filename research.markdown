@@ -50,15 +50,15 @@ researchers together across Princeton University and
 beyond to design an open-source, replicable ventilator that could adapt 
 to shifting global supply chains. I developed printed circuit boards to 
 interface pressure and flow sensors and valves with a 
-Raspberry Pi to control the system. I am also carrying out standard testing to certify the 
-ventilator for emergency use. Contributing to this project has been a 
+Raspberry Pi to control the system, and tested its performance.
+Contributing to this project has been a 
 great honor, and I would like to acknowledge the fantastic team: 
 Julienne 
 LaChance, Daniel Cohen, Daniel Notterman, Lorenzo Seirup, Chase 
 Marshall, Grant Wallace, Jonny Saunders, 
 Manuel Schottdorf, Zhenyu Song, Al Gaillard, Sophie Dvali, and Moritz 
 Kuett.
-- [People's Ventilator Project Documentation](peoplesvent.org)
+- [People's Ventilator Project Documentation](https://www.peoplesvent.org/en/latest/)
 - D. Krakow, [_Tom 
 Zajdel: From Skin 
 Wounds to Ventilators_](https://mae.princeton.edu/about-mae/spotlight/tom-zajdel-skin-wounds-ventilators), 

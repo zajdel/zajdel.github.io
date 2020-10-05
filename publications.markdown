@@ -22,6 +22,9 @@ and Remote Sensing*, vol. 50, no. 9, pp. 3374-3382, 2012.
 - A.Y. Zhou, **T.J. Zajdel**, M.A. TerAvest, and M.M. Maharbiz, [_A miniaturized monitoring system for electrochemical biosensing using Shewanella oneidensis in environmental applications_](https://ieeexplore.ieee.org/abstract/document/7320131), *Proceedings of 2015 Engineering in Medicine and Biology Conference*, August 2015.
 - **T.J. Zajdel**, M.A. TerAvest, B. Rad, C.M. Ajo-Franklin, and M.M. Maharbiz, [_Probing the dynamics of the proton-motive force of E. coli_](http://ieeexplore.ieee.org/document/6985366/), *Proceedings of the 2014 IEEE Sensors Conference*, November 2014.
 
+# Preprints
+J. LaChance, **T.J. Zajdel**, M. Schottdorf, J.L. Saunders, S. Dvali, C. Marshall, L. Seirup, D.A. Notterman, D.J. Cohen, PVP1--The People's Ventilator Project: A fully open, low-cost, pressure-controlled ventilator_, *medRxiv*, 2020.
+
 # Conference Abstracts
 - **T.J. Zajdel**, D.J. Cohen, _Characterizing electrotaxis for control of cellular migration_, *American Physical Society March Meeting*, March 2019.  
 - **T.J. Zajdel**, A.M. Walczak, D. Sengupta, V. Tieu, C.M. Ajo-Franklin, and M.M. Maharbiz, _Impedance-Based Electrochemical Readout of Bacterial Flagellar Rotation_, *Engineering Approaches to Biomolecular Motors: From in vitro to in vivo*, June 2016. <br/>

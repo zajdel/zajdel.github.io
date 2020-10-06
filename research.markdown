@@ -59,6 +59,7 @@ Marshall, Grant Wallace, Jonny Saunders,
 Manuel Schottdorf, Zhenyu Song, Al Gaillard, Sophie Dvali, and Moritz 
 Kuett.
 - [People's Ventilator Project Documentation](https://www.peoplesvent.org/en/latest/)
+- J. LaChance, **T.J. Zajdel**, M. Schottdorf, J.L. Saunders, S. Dvali, C. Marshall, L. Seirup, D.A. Notterman, D.J. Cohen, [*PVP1–The People’s Ventilator Project: A fully open, low-cost, pressure-controlled ventilator*](https://www.medrxiv.org/content/10.1101/2020.10.02.20206037v1), *medRxiv*, 2020.
 - D. Krakow, [_Tom 
 Zajdel: From Skin 
 Wounds to Ventilators_](https://mae.princeton.edu/about-mae/spotlight/tom-zajdel-skin-wounds-ventilators), 

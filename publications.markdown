@@ -23,6 +23,7 @@ and Remote Sensing*, vol. 50, no. 9, pp. 3374-3382, 2012.
 - **T.J. Zajdel**, M.A. TerAvest, B. Rad, C.M. Ajo-Franklin, and M.M. Maharbiz, [_Probing the dynamics of the proton-motive force of E. coli_](http://ieeexplore.ieee.org/document/6985366/), *Proceedings of the 2014 IEEE Sensors Conference*, November 2014.
 
 # Preprints
+- **T.J. Zajdel**, G. Shim, and D.J. Cohen, [*Come together: bioelectric healing-on-a-chip*](https://www.biorxiv.org/content/10.1101/2020.12.29.424578v1), *bioRxiv*, 2020.
 - J. LaChance, **T.J. Zajdel**, M. Schottdorf, J.L. Saunders, S. Dvali, C. Marshall, L. Seirup, D.A. Notterman, D.J. Cohen, [*PVP1–The People’s Ventilator Project: A fully open, low-cost, pressure-controlled ventilator*](https://www.medrxiv.org/content/10.1101/2020.10.02.20206037v1), *medRxiv*, 2020.
 
 # Conference Abstracts

@@ -26,7 +26,7 @@ During spring 2016, I consulted with [ZAMITA](https://lkdfacility.org/zamita-zam
 laboratory curriculum to teach practical electronics to
 mechanics-in-training in Zambia's Northern Technical College (NORTEC). The course used best practices in 
 problem-based learning to develop prototyping and circuit debugging skills to prepare trainees for entry in the growing excavation and transport industries.
-I also faciliated an on-site workshop with instructors on laboratory pedagogy and lecturing techniques for this material.
+I also facilitated an on-site workshop with instructors on laboratory pedagogy and lecturing techniques for this material.
 - [ZAMITA, Zambia: Public-Private Development Partnership](https://lkdfacility.org/zamita-zambia/)
 
 ## Experience

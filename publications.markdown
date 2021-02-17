@@ -24,6 +24,7 @@ and Remote Sensing*, vol. 50, no. 9, pp. 3374-3382, 2012.
 - **T.J. Zajdel**, M.A. TerAvest, B. Rad, C.M. Ajo-Franklin, and M.M. Maharbiz, [_Probing the dynamics of the proton-motive force of E. coli_](http://ieeexplore.ieee.org/document/6985366/), *Proceedings of the 2014 IEEE Sensors Conference*, November 2014.
 
 # Preprints
+- D. Suo, U. Ghai, E. Minasyan, P. Gradu, X. Chen, N. Agarwal, C. Zhang, K. Singh, J. LaChance, **T. Zajdel**, M. Schottdorf, D. Cohen, and E. Hazan, [*Machine learning for mechanical ventilation control*](https://arxiv.org/abs/2102.06779), *arXiv*, 2021.
 - J. LaChance, **T.J. Zajdel**, M. Schottdorf, J.L. Saunders, S. Dvali, C. Marshall, L. Seirup, D.A. Notterman, D.J. Cohen, [*PVP1–The People’s Ventilator Project: A fully open, low-cost, pressure-controlled ventilator*](https://www.medrxiv.org/content/10.1101/2020.10.02.20206037v1), *medRxiv*, 2020.
 
 # Conference Abstracts

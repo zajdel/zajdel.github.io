@@ -13,6 +13,8 @@ My thesis worked on cochlear implant speech processing, implementing asynchronou
 I moved to California for my PhD in EECS from UC Berkeley, working with Professor Michel Maharbiz on interfacing bacteria and electronics for biosensing.
 While at Cal, I also taught and developed curricula for courses in electronic circuits, amateur radio, and introductory mechanics, including a massively open online course about electronics.
 
-Now I'm at Princeton University, working in Daniel Cohen's Biointerfaces group, where I build devices to electrically stimulate tissues to control their growth and movement in vitro.
+Then I joined Daniel Cohen's Biointerfaces group at Princeton University as a postdoc, where I built devices to electrically stimulate tissues to control their growth and movement in vitro.
+
+Now I'm an Assistant Teaching Professor in ECE at Carnegie Mellon University in Pittsburgh, PA.
 
 When I'm not in the lab or classroom, I enjoy running, gardening, amateur radio, and board games.

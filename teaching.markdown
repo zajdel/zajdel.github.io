@@ -7,6 +7,13 @@ permalink: /teaching/
 I believe that design experiences enrich students from all disciplines, from biology to the humanities, 
 because the design process requires that we engage in critical thinking about technology and its influence on our society.
 
+
+## Recent Courses
+
+| Date | Course | 
+| --- | --- |
+| Fall 2021 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) |
+
 ## Projects
 # *EE40LX*: Analog circuits MOOC for all
 <img width="700" title="EE40LX: Electronic Interfaces" src="/img/ee40lx_banner.png">
@@ -29,15 +36,7 @@ problem-based learning to develop prototyping and circuit debugging skills to pr
 I also facilitated an on-site workshop with instructors on laboratory pedagogy and lecturing techniques for this material.
 - [ZAMITA, Zambia: Public-Private Development Partnership](https://lkdfacility.org/zamita-zambia/)
 
-## Experience
-
-### Recent
-
-| Date | Course | 
-| --- | --- |
-| Fall 2021 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) |
-
-### Prior to CMU
+## Prior Courses
 
 | Date | Course | Role | Location |
 | --- | --- | --- | --- |

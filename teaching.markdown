@@ -12,7 +12,7 @@ because the design process requires that we engage in critical thinking about te
 
 | Date | Course | 
 | --- | --- |
-| Fall 2021 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) |
+| Fall 2021 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-teaching with [Jimmy Zhu](https://engineering.cmu.edu/directory/bios/zhu-jiangang.html)) |
 
 ## Projects
 # *EE40LX*: Analog circuits MOOC for all

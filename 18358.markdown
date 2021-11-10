@@ -35,6 +35,9 @@ The reference used for this class is the ARRL Technician Ham Radio License Manua
 
 # Spring 2022 Schedule (Tentative)
 
+Mondays are **seminars** covering one aspect of amateur radio. They run from 7:00pm to 8:20pm.
+Wednesdays are **demo days** that consist of hands-on demonstrations. They will run from 7:00pm to 7:50pm.
+
 | Week | Day | Date | Topic | Reading |
 | --- | --- | --- | --- | --- |
 | 1 | M | 14-Mar | Seminar: Radio and Signal Fundamentals | Chapters 1 & 2 |
@@ -49,8 +52,8 @@ The reference used for this class is the ARRL Technician Ham Radio License Manua
 |   | W | 13-Apr | Demo: Buggy Net |  |
 | 6 | M | 18-Apr | Seminar: Licensing and Operating Regulations | Chapters 7 & 8 |
 |   | W | 20-Apr | Demo: Field Day | |
-| 7 | M | 25-Apr | Seminar: Safety | Chapter 9 | |
-|   | W | 27-Apr | Licensing Exam | |
+| 7 | M | 25-Apr | Licensing Exam | |
+|   | W | 27-Apr | No class. **Reflection due** | |
 
 # Links
 - [W3VC - Carnegie Tech Radio Club](http://www.w3vc.org/)

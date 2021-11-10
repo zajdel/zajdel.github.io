@@ -4,14 +4,56 @@ title: 18-358: Principles of Amateur Radio
 permalink: /ece358/
 ---
 
-# Overview
-
 # Course Description
+This class aims to introduce you to the world of amateur radio. It will prepare you for the Technician
+class amateur radio licensing exam, with emphasis on demonstrating what you could do once you
+get the license. Though the class material focuses on the entry-level Technician exam, you have
+the opportunity to obtain the General and Extra licenses as well. This class welcomes ANYONE
+interested in becoming a licensed amateur radio user, regardless of major or background.
+
+# Learning Outcomes
+By taking this course, you will...
+- Become a licensed amateur radio operator!
+- Understand space weather forecasts!
+- Know why antennas come in so many different shapes and sizes!
+- Understand the active role that amateur radio plays in modern society!
+- Figure out what interests you about ham radio, and what to do with your license!
 
 # Instructor
+Tom Zajdel
+Hamerschlag Hall A210
+tzajdel@andrew.cmu.edu
 
-# Spring 2022 Schedule
+# Grading Criteria
+This course is a 6-unit course. Completing the Reflection and passing the licensing exam will earn a pass.
+
+# Reflection
+Due at the end of the course is a reflection that communicates your experience with amateur radio through this course.
+The format is flexible - the communication medium could be written, auditory, visual, or something else.
+The ideas communicated should be roughly equivalent to 300-500 words. Here are some questions to get you started:
+- What do you think of amateur radio having finished the course?
+- What do you think you will do with your license?
+- What was your favorite hands-on demo in the class?
+
+# Spring 2022 Schedule (Tentative)
 
 | Week | Day | Date | Topic | Reading |
 | --- | --- | --- | --- | --- |
-|     |     |     |     |     |
+| 1 | M | 14-Mar | Seminar: Radio and Signal Fundamentals | Chapters 1 & 2 |
+|   | W | 16-Mar | Demo: Software-defined Radio, FLDIGI |  |
+| 2 | M | 21-Mar | Seminar: Electricity, Components, and Circuits | Chapter 3 |
+|   | W | 23-Mar | Project: Soldering a radio |  |
+| 3 | M | 28-Mar | Seminar: Propagation, Antennas and Feed Lines | Chapter 4 |
+|   | W | 30-Mar | Project: Yagi-Uda Build |  |
+| 4 | M |  4-Apr | Seminar: Amateur Radio Equipment | Chapter 5 |
+|   | W |  6-Apr | Demo: Transmitter Hunt |  |
+| 5 | M | 11-Apr | Seminar: Communication with Other Hams | Chapter 6 |
+|   | W | 13-Apr | Demo: Buggy Net |  |
+| 6 | M | 18-Apr | Seminar: Licensing and Operating Regulations | Chapters 7 & 8 |
+|   | W | 20-Apr | Demo: Field Day | |
+| 7 | M | 25-Apr | Seminar: Safety | Chapter 9 | |
+|   | W | 27-Apr | Licensing Exam | |
+
+# Links
+- [W3VC - Carnegie Tech Radio Club](http://www.w3vc.org/)
+- [ARRL - Amateur Radio Relay League](http://www.arrl.org/what-is-ham-radio)

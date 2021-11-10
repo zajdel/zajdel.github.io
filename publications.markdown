@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 # Journal Publications
-- **T.J. Zajdel**, G. Shim, and D.J. Cohen, [*Come together: bioelectric healing-on-a-chip*](https://www.biorxiv.org/content/10.1101/2020.12.29.424578v1), *in review*.
+- **T.J. Zajdel**, G. Shim, and D.J. Cohen, [*Come together: On-chip bioelectric wound closure*](https://doi.org/10.1016/j.bios.2021.113479), *Biosensors and Bioelectronics*, vol. 192, p. 113479, 2021.
 - **T.J. Zajdel\***, G. Shim\*, L. Wang, A. Rossello-Martinez, D.J. Cohen, [_SCHEEPDOG: programming electric cues to dynamically herd large-scale cell migration_](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30194-0), *Cell Systems*, vol. 10, no. 6, pp. 506-514, 2020.
 - M.H. Heinrich, R. Alert, J.M. LaChance, **T.J. Zajdel**, A. Košmrlj, D.J. Cohen, [_Size-dependent patterns of cell proliferation and migration in freely-expanding epithelia_](https://doi.org/10.7554/eLife.58945), *eLife*, vol. 9., p. e58945, 2020.
 - L. Su\*, T. Fukushima\*, A. Prior, M. Baruch, **T.J. Zajdel**, C.M. Ajo-Franklin, [_Enhancing current production in engineered E. coli by modifying the cytochrome c maturation pathway_](https://pubs.acs.org/doi/abs/10.1021/acssynbio.9b00379), *ACS Synthetic Biology*, vol. 9, no. 1, pp. 115-124, 2019.

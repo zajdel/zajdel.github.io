@@ -34,7 +34,7 @@ biological response. Because electrotaxis has been documented across diverse sys
 at least 20 mammalian cell types, slime molds, fish, and frogs, our platform represents a control 
 approach with potentially broad utility in many arenas.
 - **T.J. Zajdel\***, G. Shim\*, L. Wang, A. Rossello-Martinez, D.J. Cohen, [_SCHEEPDOG: programming electric cues to dynamically herd large-scale cell migration_](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30194-0), *Cell Systems*, vol. 10, no. 6, pp. 506-514, 2020.
-- **T.J. Zajdel**, G. Shim, and D.J. Cohen, [*Come together: bioelectric healing-on-a-chip*](https://www.biorxiv.org/content/10.1101/2020.12.29.424578v1), *bioRxiv*, 2020.
+- **T.J. Zajdel**, G. Shim, and D.J. Cohen, [*Come together: On-chip bioelectric wound closure*](https://doi.org/10.1016/j.bios.2021.113479), *Biosensors and Bioelectronics*, vol. 192, p. 113479, 2021.
 - M. Sharlach, [_Researchers use electric fields to herd cells like flocks of sheep_](https://engineering.princeton.edu/news/2020/06/24/researchers-use-electric-fields-herd-cells-flocks-sheep-0), Princeton Engineering, June 2020.
 
 # People's Ventilator Project

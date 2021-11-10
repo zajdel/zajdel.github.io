@@ -4,10 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-I believe that design experiences enrich students from all disciplines, from biology to the humanities, 
-because the design process requires that we engage in critical thinking about technology and its influence on our society.
-
-
 ## Current/Upcoming Courses
 
 | Date | Course | 

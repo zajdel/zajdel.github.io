@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 18-358: Principles of Amateur Radio
+title: Principles of Amateur Radio
 permalink: /ece358/
 ---
 

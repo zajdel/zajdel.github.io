@@ -20,8 +20,8 @@ By taking this course, you will...
 - Figure out what interests you about ham radio, and what to do with your license!
 
 # Instructor
-Tom Zajdel
-Hamerschlag Hall A210
+Tom Zajdel<br/>
+Hamerschlag Hall A210<br/>
 tzajdel@andrew.cmu.edu
 
 # Grading Criteria

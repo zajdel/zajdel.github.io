@@ -13,7 +13,7 @@ because the design process requires that we engage in critical thinking about te
 | Date | Course | 
 | --- | --- |
 | Spring 2022 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-teaching with [Greg Kesden](https://www.andrew.cmu.edu/user/gkesden/)) |
-| Spring 2022 Mini | [18-358: Introduction to Amateur RAdio](https://courses.ece.cmu.edu/18358) |
+| Spring 2022 Mini | 18-358: Introduction to Amateur Radio |
 | Fall 2021 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-teaching with [Jimmy Zhu](https://engineering.cmu.edu/directory/bios/zhu-jiangang.html)) |
 
 ## Projects

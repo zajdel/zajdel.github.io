@@ -4,34 +4,34 @@ title: Principles of Amateur Radio
 permalink: /ece358/
 ---
 
+## 18-358: Special Topics in Communication - Principles of Amateur Radio
+
 # Course Description
 This course aims to introduce students to the fundamentals of amateur radio. It is designed to prepare students to pass the amateur radio licensing exam, with an emphasis on hands-on demonstrations on what can be done with a radio license.
 Though the class material focuses on the entry-level Technician exam, students have the opportunity to obtain the more advanced General and Extra class licenses which come with more privileges.
 Topics covered include: Radio signal fundamentals, basic electronics, radio wave propagation, antennas, radio equipment, norms of amateur radio communication, and operating regulations.
 This course welcomes anyone interested in becoming a licensed amateur radio user, regardless of major or prior background.
 
-# Learning Outcomes
-By taking this course, you will...
-- Become a licensed amateur radio operator!
-- Understand space weather forecasts!
-- Know why antennas come in so many different shapes and sizes!
-- Understand the active role that amateur radio plays in modern society!
-- Figure out what interests you about ham radio, and what to do with your license!
-
 # Instructor
 Tom Zajdel<br/>
 Hamerschlag Hall A210<br/>
 tzajdel@andrew.cmu.edu
 
+# Prequisites
+None!
+
+# Reference
+The reference used for this class is the ARRL Technician Ham Radio License Manual.
+
 # Grading Criteria
-This course is 6 units graded P/N. Completing the Reflection assignment and passing the Technician licensing exam will earn a P.<br/>
-If you are already licensed at the Technician or General levels, but would like to upgrade your license to General or Extra class, you may enroll.<br/>
-If you already have an extra level license, you are welcome to attend/audit the course, but cannot take it for credit!
+-This course is 6 units graded P/N. Completing the Reflection assignment and passing the Technician licensing exam will earn a P.
+-If you are already licensed at the Technician or General levels, but would like to upgrade your license to General or Extra class, you may enroll.
+-If you already have an extra level license, you are welcome to attend/audit the course, but cannot take it for credit.
 
 # Reflection
-Due at the end of the course is a reflection that communicates your experience with amateur radio through this course.
-The format is flexible. The communication medium could be written, auditory, graphic, dramatic performance, etc.
-The ideas communicated should be roughly equivalent to 500 words.
+-Due by 30-Apr is a reflection that communicates your experience with amateur radio through this course.
+-The format is flexible. The communication medium could be written, auditory, graphic, dramatic performance, etc.
+-The ideas communicated should be roughly equivalent to 500 words.
 
 # Spring 2022 Schedule (Tentative)
 

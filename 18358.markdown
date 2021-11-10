@@ -25,7 +25,7 @@ Hamerschlag Hall A210<br/>
 tzajdel@andrew.cmu.edu
 
 # Grading Criteria
-This course is a 6-unit course. Completing the Reflection and passing the licensing exam will earn a pass.
+This course is 6-units. Completing the Reflection and passing the licensing exam will earn a pass.
 
 # Reflection
 Due at the end of the course is a reflection that communicates your experience with amateur radio through this course.

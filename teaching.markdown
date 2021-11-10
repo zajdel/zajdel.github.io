@@ -8,10 +8,12 @@ I believe that design experiences enrich students from all disciplines, from bio
 because the design process requires that we engage in critical thinking about technology and its influence on our society.
 
 
-## Recent Courses
+## Current/Upcoming Courses
 
 | Date | Course | 
 | --- | --- |
+| Spring 2022 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-teaching with [Greg Kesden](https://www.andrew.cmu.edu/user/gkesden/)) |
+| Spring 2022 Mini | [18-358: Introduction to Amateur RAdio](https://courses.ece.cmu.edu/18358) |
 | Fall 2021 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-teaching with [Jimmy Zhu](https://engineering.cmu.edu/directory/bios/zhu-jiangang.html)) |
 
 ## Projects
@@ -36,7 +38,7 @@ problem-based learning to develop prototyping and circuit debugging skills to pr
 I also facilitated an on-site workshop with instructors on laboratory pedagogy and lecturing techniques for this material.
 - [ZAMITA, Zambia: Public-Private Development Partnership](https://lkdfacility.org/zamita-zambia/)
 
-## Prior Courses
+## Prior Experience
 
 | Date | Course | Role | Location |
 | --- | --- | --- | --- |

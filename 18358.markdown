@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Principles of Amateur Radio
+title: 18\-358
 permalink: /ece358/
 ---
 
-## 18-358: Special Topics in Communication - Principles of Amateur Radio
+## Special Topics in Communication - Principles of Amateur Radio
 
 # Course Description
 This course aims to introduce students to the fundamentals of amateur radio. It is designed to prepare students to pass the amateur radio licensing exam, with an emphasis on hands-on demonstrations on what can be done with a radio license.
@@ -52,8 +52,8 @@ Wednesdays are *demo days* that consist of hands-on demonstrations. They run fro
 |   | W | 13-Apr | Demo: Buggy Net |  |
 | 6 | M | 18-Apr | Seminar: Licensing and Operating Regulations | Chapters 7 & 8 |
 |   | W | 20-Apr | Demo: Field Day | |
-| 7 | M | 25-Apr | Licensing Exam | |
-|   | W | 27-Apr | No class. **Reflection due** | |
+| 7 | M | 25-Apr | **Licensing Exam** | |
+|   | W | 27-Apr | No class, **Reflection due** | |
 
 # Links
 - [W3VC - Carnegie Tech Radio Club](http://www.w3vc.org/)

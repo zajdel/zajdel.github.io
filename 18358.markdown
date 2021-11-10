@@ -35,8 +35,8 @@ The reference used for this class is the ARRL Technician Ham Radio License Manua
 
 # Spring 2022 Schedule (Tentative)
 
-Mondays are **seminars* covering one aspect of amateur radio. They run from 7:00pm to 8:20pm.
-Wednesdays are **demo days** that consist of hands-on demonstrations. They will run from 7:00pm to 7:50pm.
+Mondays are *seminars* covering one aspect of amateur radio. They run from 7:00pm to 8:20pm.
+Wednesdays are *demo days* that consist of hands-on demonstrations. They run from 7:00pm to 7:50pm.
 
 | Week | Day | Date | Topic | Reading |
 | --- | --- | --- | --- | --- |

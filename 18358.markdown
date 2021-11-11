@@ -35,6 +35,7 @@ Due by 27-Apr is a ~500-word written reflection that communicates your experienc
 
 Mondays are *seminars* covering one aspect of amateur radio. They run from 7:00pm to 8:20pm.
 Wednesdays are *demo days* that consist of hands-on demonstrations. They run from 7:00pm to 7:50pm.
+Some Wednesdays are *project days* that will run from 7:00pm to 8:20pm.
 
 | Week | Day | Date | Topic | Reading |
 | --- | --- | --- | --- | --- |

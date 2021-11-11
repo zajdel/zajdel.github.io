@@ -29,9 +29,7 @@ The reference used for this class is the ARRL Technician Ham Radio License Manua
 - If you already have an extra level license, you are welcome to attend/audit the course, but cannot take it for credit.
 
 # Reflection
-- Due by 27-Apr is a reflection that communicates your experience with amateur radio through this course.
-- The format is flexible. The communication medium could be written, auditory, graphic, dramatic performance, etc.
-- The ideas communicated should be roughly equivalent to 500 words.
+Due by 27-Apr is a ~500-word written reflection that communicates your experience with amateur radio through this course.
 
 # Spring 2022 Schedule (Tentative)
 

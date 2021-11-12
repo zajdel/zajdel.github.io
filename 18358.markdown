@@ -31,11 +31,11 @@ The reference used for this class is the ARRL Technician Ham Radio License Manua
 # Reflection
 Due by 27-Apr is a ~500-word written reflection that communicates your experience with amateur radio through this course.
 
-# Spring 2022 Schedule (Tentative)
+# Spring 2022 Schedule (Tentative, subject to change/shuffling depending on weather)
 
 Mondays are *seminars* covering one aspect of amateur radio. They run from 7:00pm to 8:20pm.
-Wednesdays are *demo days* that consist of hands-on demonstrations. They run from 7:00pm to 7:50pm.
-Some Wednesdays are *project days* that will run from 7:00pm to 8:20pm.
+Most Wednesdays are *demo days* that consist of hands-on demonstrations. They run from 7:00pm to 7:50pm.
+Some Wednesdays are *project days* that will run from 7:00pm to 8:20pm to allow more time to complete the hands-on build projects.
 
 | Week | Day | Date | Topic | Reading |
 | --- | --- | --- | --- | --- |
@@ -56,4 +56,5 @@ Some Wednesdays are *project days* that will run from 7:00pm to 8:20pm.
 
 # Links
 - [W3VC - Carnegie Tech Radio Club](http://www.w3vc.org/)
+- [WebSDR - Listen to Shortwave on the Internet](http://www.websdr.org/)
 - [ARRL - Amateur Radio Relay League](http://www.arrl.org/what-is-ham-radio)

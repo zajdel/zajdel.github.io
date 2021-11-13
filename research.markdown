@@ -16,9 +16,9 @@ compatible with the integrated circuits that drive our digital world.
 Care must be taken at the interface between electronics and living organisms to keep both the electronics and organisms happy.
 This interface has been at the core of my research work, whether it involves the electroactive bacterium *Shewanella oneidensis* 
 or skin cells sheepherded in a petri dish.
-I am engineering devices that use this bioelectrical connection to augment these biological systems for biosensing and medical applications.
+My previous research work involved engineering devices that use this bioelectrical connection to augment these biological systems for biosensing and medical applications.
 
-## Current
+## Past
 # SCHEEPDOG: Steering cell motion with electrical stimulation
 <video autoplay loop width="100%" title="Steering mouse keratinocytes (skin cells) through a circular trajectory using a rotating electric field." src="/img/scheepdog.mp4"></video>
 

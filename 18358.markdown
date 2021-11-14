@@ -37,20 +37,20 @@ Mondays are *seminars* covering one aspect of amateur radio. They run from 7:00p
 Most Wednesdays are *demo days* that consist of hands-on demonstrations. They run from 7:00pm to 7:50pm.
 Some Wednesdays are *project days* that will run from 7:00pm to 8:20pm to allow more time to complete the hands-on build projects.
 
-| Week | Day | Date | Topic | Reading |
+| Week | Day | Date | Topic | Reference |
 | --- | --- | --- | --- | --- |
 | 1 | M | 14-Mar | Seminar: Radio and Signal Fundamentals | Chapters 1 & 2 |
-|   | W | 16-Mar | Demo: Software-defined Radio, FLDIGI |  |
+|   | W | 16-Mar | Demo: WebSDR and FLDigi |  |
 | 2 | M | 21-Mar | Seminar: Electricity, Components, and Circuits | Chapter 3 |
-|   | W | 23-Mar | Project: Soldering a radio |  |
-| 3 | M | 28-Mar | Seminar: Propagation, Antennas and Feed Lines | Chapter 4 |
-|   | W | 30-Mar | Project: Yagi-Uda Build |  |
-| 4 | M |  4-Apr | Seminar: Amateur Radio Equipment | Chapter 5 |
-|   | W |  6-Apr | Demo: Transmitter Hunt |  |
-| 5 | M | 11-Apr | Seminar: Communication with Other Hams | Chapter 6 |
-|   | W | 13-Apr | Demo: Buggy Net |  |
+|   | W | 23-Mar | Project: Mini-Radio Build | [Soldering Tutorial](https://www.youtube.com/watch?v=Qps9woUGkvI) |
+| 3 | M | 28-Mar | Seminar: Amateur Radio Equipment | Chapter 5 |
+|   | W | 30-Mar | Demo: RTL-SDR |  |
+| 4 | M |  4-Apr | Seminar: Antennas and Propagation | Chapter 4 |
+|   | W |  6-Apr | Project: Yagi-Uda Build |  |
+| 5 | M | 11-Apr | Seminar: Propagation and Communication with Other Hams | Chapter 6 |
+|   | W | 13-Apr | Demo: Discord Net (remote) |  |
 | 6 | M | 18-Apr | Seminar: Licensing and Operating Regulations | Chapters 7 & 8 |
-|   | W | 20-Apr | Demo: Field Day | |
+|   | W | 20-Apr | Demo: Field Day/Transmitter Hunt | |
 | 7 | M | 25-Apr | **Licensing Exam** | |
 |   | W | 27-Apr | No class, **Reflection due** | |
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 18\-358
+title: 18-358
 permalink: /ece358/
 ---
 

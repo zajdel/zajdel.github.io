@@ -48,9 +48,9 @@ Some Wednesdays are *project days* that will run from 7:00pm to 8:20pm to allow 
 | 4 | M |  4-Apr | Seminar: Antennas and Propagation | Ch 4 |
 |   | W |  6-Apr | Project: Yagi-Uda Build |  |
 | 5 | M | 11-Apr | Seminar: Propagation and Communication with Other Hams | Ch 6 |
-|   | W | 13-Apr | Demo: Discord Net (remote) |  |
+|   | W | 13-Apr | Demo: Discord Net (remote) or Transmitter Hunt |  |
 | 6 | M | 18-Apr | Seminar: Licensing and Operating Regulations | Ch 7 & 8 |
-|   | W | 20-Apr | Demo: Field Day/Transmitter Hunt | |
+|   | W | 20-Apr | Demo: Field Day or Transmitter Hunt | |
 | 7 | M | 25-Apr | **Licensing Exam** | |
 |   | W | 27-Apr | No class, **Reflection due** | |
 

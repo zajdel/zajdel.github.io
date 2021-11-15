@@ -39,17 +39,17 @@ Some Wednesdays are *project days* that will run from 7:00pm to 8:20pm to allow 
 
 | Week | Day | Date | Topic | Reference |
 | --- | --- | --- | --- | --- |
-| 1 | M | 14-Mar | Seminar: Radio and Signal Fundamentals | Chapters 1 & 2 |
+| 1 | M | 14-Mar | Seminar: Radio and Signal Fundamentals | Ch 1 & 2 |
 |   | W | 16-Mar | Demo: WebSDR and FLDigi |  |
-| 2 | M | 21-Mar | Seminar: Electricity, Components, and Circuits | Chapter 3 |
+| 2 | M | 21-Mar | Seminar: Electricity, Components, and Circuits | Ch 3 |
 |   | W | 23-Mar | Project: Mini-Radio Build | [Soldering](https://www.youtube.com/watch?v=Qps9woUGkvI) |
-| 3 | M | 28-Mar | Seminar: Amateur Radio Equipment | Chapter 5 |
+| 3 | M | 28-Mar | Seminar: Amateur Radio Equipment | Ch 5 |
 |   | W | 30-Mar | Demo: RTL-SDR |  |
-| 4 | M |  4-Apr | Seminar: Antennas and Propagation | Chapter 4 |
+| 4 | M |  4-Apr | Seminar: Antennas and Propagation | Ch 4 |
 |   | W |  6-Apr | Project: Yagi-Uda Build |  |
-| 5 | M | 11-Apr | Seminar: Propagation and Communication with Other Hams | Chapter 6 |
+| 5 | M | 11-Apr | Seminar: Propagation and Communication with Other Hams | Ch 6 |
 |   | W | 13-Apr | Demo: Discord Net (remote) |  |
-| 6 | M | 18-Apr | Seminar: Licensing and Operating Regulations | Chapters 7 & 8 |
+| 6 | M | 18-Apr | Seminar: Licensing and Operating Regulations | Ch 7 & 8 |
 |   | W | 20-Apr | Demo: Field Day/Transmitter Hunt | |
 | 7 | M | 25-Apr | **Licensing Exam** | |
 |   | W | 27-Apr | No class, **Reflection due** | |

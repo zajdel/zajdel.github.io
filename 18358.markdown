@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 18358
+title: 18-358
 permalink: /ece358/
 ---
 
@@ -21,7 +21,7 @@ tzajdel@andrew.cmu.edu
 None!
 
 # Reference
-The reference used for this class is the ARRL Technician Ham Radio License Manual.
+The reference used for this class is the ARRL Technician Ham Radio License Manual (any edition).
 
 # Grading Criteria
 - This course is 6 units graded P/N. Completing the Reflection assignment and passing the Technician licensing exam will earn a P.

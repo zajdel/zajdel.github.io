@@ -21,7 +21,9 @@ tzajdel@andrew.cmu.edu
 None!
 
 # Reference
-The reference used for this class is the ARRL Technician Ham Radio License Manual (any edition).
+- The references used for this class are the ARRL Ham Radio License Manual (T) and General Class Licnese Manual (G). Lectures will primarily provide context for self-study.
+- ECE majors should be able to tackle the Extra class license using knowledge from 18-100 and 18-220 (and a little bit of 18-320). An ``Extra Addendum'' will be included in the course notes to suggest material to review for those interested in deeper study for Extra.
+- Lecture Notes will be provided
 
 # Grading Criteria
 - This course is 6 units graded P/N. Completing the Reflection assignment and passing the Technician licensing exam will earn a P.
@@ -39,17 +41,17 @@ Some Wednesdays are *project days* that will run from 7:00pm to 8:20pm to allow 
 
 | Week | Day | Date | Topic | Reference |
 | --- | --- | --- | --- | --- |
-| 1 | M | 14-Mar | Seminar: Radio and Signal Fundamentals | Ch 1 & 2 |
-|   | W | 16-Mar | Demo: WebSDR and FLDigi |  |
-| 2 | M | 21-Mar | Seminar: Electricity, Components, and Circuits | Ch 3 |
+| 1 | M | 14-Mar | Seminar: Radio and Signal Fundamentals | T1, T2 |
+|   | W | 16-Mar | Demo: WebSDR and FLDigi | G6 |
+| 2 | M | 21-Mar | Seminar: Electricity, Components, and Circuits | T3, G4 |
 |   | W | 23-Mar | Project: Mini-Radio Build | [Soldering](https://www.youtube.com/watch?v=Qps9woUGkvI) |
-| 3 | M | 28-Mar | Seminar: Amateur Radio Equipment | Ch 5 |
+| 3 | M | 28-Mar | Seminar: Amateur Radio Equipment | T5, G5 |
 |   | W | 30-Mar | Demo: RTL-SDR |  |
-| 4 | M |  4-Apr | Seminar: Antennas and Propagation | Ch 4 |
+| 4 | M |  4-Apr | Seminar: Antennas and Propagation | T4, G7 |
 |   | W |  6-Apr | Project: Yagi-Uda Build |  |
-| 5 | M | 11-Apr | Seminar: Propagation and Communication with Other Hams | Ch 6 |
+| 5 | M | 11-Apr | Seminar: Propagation and Communication with Other Hams | T6, G8 |
 |   | W | 13-Apr | Demo: Discord Net (remote) or Transmitter Hunt |  |
-| 6 | M | 18-Apr | Seminar: Licensing and Operating Regulations | Ch 7 & 8 |
+| 6 | M | 18-Apr | Seminar: Licensing and Operating Regulations | T7, T8, G2 |
 |   | W | 20-Apr | Demo: Field Day or Transmitter Hunt | |
 | 7 | M | 25-Apr | **Licensing Exam** | |
 |   | W | 27-Apr | No class, **Reflection due** | |

@@ -13,7 +13,7 @@ Topics covered include: Radio signal fundamentals, basic electronics, radio wave
 This course welcomes anyone interested in becoming a licensed amateur radio user, regardless of major or prior background.
 
 # Instructor
-Tom Zajdel<br/>
+Tom Zajdel (AI6CU)<br/>
 Hamerschlag Hall A210<br/>
 tzajdel@andrew.cmu.edu
 

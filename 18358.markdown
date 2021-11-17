@@ -4,7 +4,7 @@ title: 18-358
 permalink: /ece358/
 ---
 
-## Special Topics in Communication - Principles of Amateur Radio
+## Special Topics in Communication - Introduction to Amateur Radio
 
 # Course Description
 This course aims to introduce students to the fundamentals of amateur radio. It is designed to prepare students to pass the amateur radio licensing exam, with an emphasis on hands-on demonstrations on what can be done with a radio license.

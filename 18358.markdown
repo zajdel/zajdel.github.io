@@ -22,8 +22,8 @@ None!
 
 # Reference
 - The references used for this class are the ARRL Ham Radio License Manual (T) and General Class Licnese Manual (G). Lectures will primarily provide context for self-study.
-- ECE majors should be able to tackle the Extra class license using knowledge from 18-100 and 18-220 (and a little bit of 18-320). An ``Extra Addendum'' will be included in the course notes to suggest material to review for those interested in deeper study for Extra.
-- Lecture Notes will be provided
+- ECE majors should be able to tackle the Extra class license using knowledge from 18-100 and 18-220 (and a little bit of 18-320). An ``Extra Addendum'' will be included in the course notes to suggest material to review for those interested in pursuing the Extra license.
+- Lecture Notes will be provided when applicable
 
 # Grading Criteria
 - This course is 6 units graded P/N. Passing a licensing exam will earn a P.
@@ -36,7 +36,7 @@ Mondays are *seminars* covering one aspect of amateur radio. They run from 7:00p
 Most Wednesdays are *demo days* that consist of hands-on demonstrations. They run from 7:00pm to 7:50pm.
 Some Wednesdays are *project days* that will run from 7:00pm to 8:20pm to allow more time to complete the hands-on build projects.
 
-| Week | Day | Date | Topic | Reference |
+| Wk | Day | Date | Topic | Reference |
 | --- | --- | --- | --- | --- |
 | 1 | M | 14-Mar | Seminar: Radio and Signal Fundamentals | T1, T2 |
 |   | W | 16-Mar | Demo: WebSDR and FLDigi | G6 |

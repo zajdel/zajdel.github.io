@@ -19,7 +19,7 @@ permalink: /teaching/
 | Spring 2022 Mini | [18-358: Introduction to Amateur Radio](/ece358/) |
 | Fall 2021 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-taught with [Jimmy Zhu](https://engineering.cmu.edu/directory/bios/zhu-jiangang.html)) |
 
-## Projects
+## Previous Projects
 # *EE40LX*: Analog circuits MOOC for all
 <img width="700" title="EE40LX: Electronic Interfaces" src="/img/ee40lx_banner.png">
 

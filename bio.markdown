@@ -17,4 +17,4 @@ Then I joined Daniel Cohen's Biointerfaces group at Princeton University as a po
 
 Now I'm an Assistant Teaching Professor in ECE at Carnegie Mellon University in Pittsburgh, PA.
 
-When I'm not in the lab or classroom, I enjoy running, gardening, amateur radio, and board games.
+When I'm not in the lab or classroom, I enjoy running, gardening, amateur radio (callsign: AI6CU), and board games.

@@ -13,6 +13,7 @@ permalink: /teaching/
 | Fall 2022 | [18-358: Introduction to Amateur Radio](/ece358/) |
 
 ## Previous Courses
+
 | Date | Course | 
 | --- | --- |
 | Spring 2022 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-taught with [Greg Kesden](https://www.andrew.cmu.edu/user/gkesden/)) |

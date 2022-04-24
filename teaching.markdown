@@ -8,9 +8,16 @@ permalink: /teaching/
 
 | Date | Course | 
 | --- | --- |
-| Spring 2022 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-teaching with [Greg Kesden](https://www.andrew.cmu.edu/user/gkesden/)) |
+| Fall 2022 | [18-095: Getting Started in Electronics](/files/18095_flyer_v2.pdf) |
+| Fall 2022 | [18-429/729: Board-Level RF Systems for the Internet-of-Things](/files/18729-MIMO-RF-1-page-flyer.pdf) (co-teaching with [Rick Carley](https://www.ece.cmu.edu/directory/bios/carley-rick.html))|
+| Fall 2022 | [18-358: Introduction to Amateur Radio](/ece358/) |
+
+## Previous Courses
+| Date | Course | 
+| --- | --- |
+| Spring 2022 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-taught with [Greg Kesden](https://www.andrew.cmu.edu/user/gkesden/)) |
 | Spring 2022 Mini | [18-358: Introduction to Amateur Radio](/ece358/) |
-| Fall 2021 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-teaching with [Jimmy Zhu](https://engineering.cmu.edu/directory/bios/zhu-jiangang.html)) |
+| Fall 2021 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-taught with [Jimmy Zhu](https://engineering.cmu.edu/directory/bios/zhu-jiangang.html)) |
 
 ## Projects
 # *EE40LX*: Analog circuits MOOC for all
@@ -34,7 +41,7 @@ problem-based learning to develop prototyping and circuit debugging skills to pr
 I also facilitated an on-site workshop with instructors on laboratory pedagogy and lecturing techniques for this material.
 - [ZAMITA, Zambia: Public-Private Development Partnership](https://lkdfacility.org/zamita-zambia/)
 
-## Prior Experience
+<!--## Prior Experience
 
 | Date | Course | Role | Location |
 | --- | --- | --- | --- |
@@ -55,4 +62,4 @@ I also facilitated an on-site workshop with instructors on laboratory pedagogy a
 | Fall 2010 | ENG191: Engineering Fundamentals - CAD | Undergraduate TA | Ohio State |
 | Spring 2010 | ENG193: Engineering Fundamentals - Design | Undergraduate TA | Ohio State |
 | Winter 2010 | ENG192: Engineering Fundamentals - Programming | Undergraduate TA | Ohio State |
-| Fall 2009 | ENG191: Engineering Fundamentals - CAD | Undergraduate TA | Ohio State  |
+| Fall 2009 | ENG191: Engineering Fundamentals - CAD | Undergraduate TA | Ohio State  |-->

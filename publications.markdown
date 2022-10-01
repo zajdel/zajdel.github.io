@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 # Journal Publications
+- J. LaChance, M. Schottdorf, **T.J. Zajdel**, J.L. Saunders, S. Dvali, C. Marshall, L. Seirup, D.A. Notterman, D.J. Cohen, [*PVP1–The People’s Ventilator Project: A fully open, low-cost, pressure-controlled ventilator research platform compatible with adult and pediatric uses*](https://doi.org/10.1371/journal.pone.0266810), *PLOS One*, vol. 17, no. 5, p. e0266810, 2022.
+- A.E. Wolf, M.A. Heinrich, I.B. Breinyn, **T.J. Zajdel**, D.J. Cohen, [*Short-term stimulation of collective cell migration in tissues reprograms long-term supracellular dynamics*](https://doi.org/10.1093/pnasnexus/pgac002), *PNAS nexus*, vol. 1, no. 1, p. pgac002, 2021.
 - **T.J. Zajdel**, G. Shim, and D.J. Cohen, [*Come together: On-chip bioelectric wound closure*](https://doi.org/10.1016/j.bios.2021.113479), *Biosensors and Bioelectronics*, vol. 192, p. 113479, 2021.
 - **T.J. Zajdel\***, G. Shim\*, L. Wang, A. Rossello-Martinez, D.J. Cohen, [_SCHEEPDOG: programming electric cues to dynamically herd large-scale cell migration_](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30194-0), *Cell Systems*, vol. 10, no. 6, pp. 506-514, 2020.
 - M.H. Heinrich, R. Alert, J.M. LaChance, **T.J. Zajdel**, A. Košmrlj, D.J. Cohen, [_Size-dependent patterns of cell proliferation and migration in freely-expanding epithelia_](https://doi.org/10.7554/eLife.58945), *eLife*, vol. 9., p. e58945, 2020.
@@ -24,9 +26,7 @@ and Remote Sensing*, vol. 50, no. 9, pp. 3374-3382, 2012.
 - **T.J. Zajdel**, M.A. TerAvest, B. Rad, C.M. Ajo-Franklin, and M.M. Maharbiz, [_Probing the dynamics of the proton-motive force of E. coli_](http://ieeexplore.ieee.org/document/6985366/), *Proceedings of the 2014 IEEE Sensors Conference*, November 2014.
 
 # Preprints
-- A.E. Wolf, M.A. Heinrich, I.B. Breinyn, **T.J. Zajdel**, D.J. Cohen, [*Short-term stimulation of collective cell migration in tissues reprograms long-term supracellular dynamics*](https://doi.org/10.1101/2021.07.27.453602), *bioRxiv*, 2021.
 - D. Suo, U. Ghai, E. Minasyan, P. Gradu, X. Chen, N. Agarwal, C. Zhang, K. Singh, J. LaChance, **T. Zajdel**, M. Schottdorf, D. Cohen, and E. Hazan, [*Machine learning for mechanical ventilation control*](https://arxiv.org/abs/2102.06779), *arXiv*, 2021.
-- J. LaChance, **T.J. Zajdel**, M. Schottdorf, J.L. Saunders, S. Dvali, C. Marshall, L. Seirup, D.A. Notterman, D.J. Cohen, [*PVP1–The People’s Ventilator Project: A fully open, low-cost, pressure-controlled ventilator*](https://www.medrxiv.org/content/10.1101/2020.10.02.20206037v1), *medRxiv*, 2020.
 
 # Conference Abstracts
 - **T.J. Zajdel**, D.J. Cohen, _Characterizing electrotaxis for control of cellular migration_, *American Physical Society March Meeting*, March 2019.  

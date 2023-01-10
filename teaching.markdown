@@ -8,14 +8,17 @@ permalink: /teaching/
 
 | Date | Course | 
 | --- | --- |
-| Fall 2022 | [18-095: Getting Started in Electronics](/files/18095_flyer_v2.pdf) |
-| Fall 2022 | [18-429/729: Board-Level RF Systems for the Internet-of-Things](/files/18729-MIMO-RF-1-page-flyer.pdf) (co-teaching with [Rick Carley](https://www.ece.cmu.edu/directory/bios/carley-rick.html))|
-| Fall 2022 | [18-358: Introduction to Amateur Radio](/ece358/) |
+| Spring 2023 | [18-059: Introduction to Amateur Radio](/ece059/) |
+| Spring 2023 | [18-095: Getting Started in Electronics](/files/18095_flyer_v2.pdf) |
+| Spring 2023 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-teaching with [Greg Kesden](https://www.andrew.cmu.edu/user/gkesden/)) |
 
 ## Previous Courses
 
 | Date | Course | 
 | --- | --- |
+| Fall 2022 | [18-095: Getting Started in Electronics](/files/18095_flyer_v2.pdf) |
+| Fall 2022 | [18-358: Introduction to Amateur Radio](/ece358/) |
+| Fall 2022 | [18-729: Board-Level RF Systems for the Internet-of-Things](/files/18729-MIMO-RF-1-page-flyer.pdf) (co-teaching with [Rick Carley](https://www.ece.cmu.edu/directory/bios/carley-rick.html))|
 | Spring 2022 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-taught with [Greg Kesden](https://www.andrew.cmu.edu/user/gkesden/)) |
 | Spring 2022 Mini | [18-358: Introduction to Amateur Radio](/ece358/) |
 | Fall 2021 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-taught with [Jimmy Zhu](https://engineering.cmu.edu/directory/bios/zhu-jiangang.html)) |

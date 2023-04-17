@@ -30,14 +30,15 @@ tzajdel@andrew.cmu.edu
 None
 
 # Reference
-- The reference used for this class is the ARRL Ham Radio License Manual. Lectures will primarily provide context for self-study.
-- ECE majors should be able to tackle the Extra class license using knowledge from 18-100 and 18-220 (and a little bit of 18-320). <!--An ``Extra Addendum'' will be included in the course notes to suggest material to review for those interested in pursuing the Extra license.-->
-- Lecture Notes will be provided when applicable
+The reference used for this class is the [ARRL Ham Radio License Manual](https://www.amazon.com/dp/1625951558/ref=sspa_dk_detail_0?psc=1&pd_rd_i=1625951558&). Lectures will primarily provide context for self-study.
 
 # Grading Criteria
-- This course is 3 units graded P/N. Passing a licensing exam will earn a P.
-- If you are already licensed at the Technician or General levels, but would like to upgrade your license to General or Extra class, you may enroll.
-- If you already have an extra level license, you are welcome to attend/audit the course, but cannot take it for credit.
+This course is 3 units graded P/N. To pass the course *7* points must be earned by completing various assignments. Not all assignments are required, so you may pick the most interesting way for you to engage with the class.
+- Get Licensed or Upgrade License (5-7 points)
+- Shack Night QSO (1 point)
+- Scotty Net Check-in (1 point)
+- Reflection (1 point)
+- Buggy Net (2 points)
 
 # Spring 2023 Schedule (Tentative, subject to change/shuffling depending on weather)
 
@@ -49,9 +50,9 @@ None
 | 4 | W | 8-Feb  | Project: FM Transmitter Build | [Soldering](https://www.youtube.com/watch?v=Qps9woUGkvI) |
 | 5 | W | 15-Feb | Radio Equipment | UV-5R Handheld Transceiver | Chapter 5 |
 | 6 | W | 22-Feb | Antennas and Feedlines | Tuning | Chapter 4 |
-| 7 | W | 1-Mar  | Propagation | Chapter 4 |
+| 7 | W | 1-Mar  | Propagation |  | Chapter 4 |
 | 8 | W | 15-Mar | Rules and Norms of Ham Radio | In-Class Net | Chapters 6-8 |
-| 9 | W | 22-Mar | **Licensing Exam** |  |
+| 9 | W | 22-Mar | **Licensing Exam in WEH 6403, 6 pm** |  |
 |10 | W | 29-Mar | Project: Yagi-Uda Build |  |
 |11 | W | 5-Apr  | Field Day |  |
 |12 | W | 12-Apr | The Art of CW | |

@@ -17,6 +17,7 @@ permalink: /publications/
 and Remote Sensing*, vol. 50, no. 9, pp. 3374-3382, 2012.
 
 # Conference Publications
+- **T.J. Zajdel**, A.C. Pensky, [_WIP: Impact of electronics design experience on non-majors’ self-efficacy and identity_](https://peer.asee.org/?q=tom+zajdel), *Proceedings of 130th ASEE Annual Conference and Exposition*, June 2023.
 - **T.J. Zajdel**, A. Nam, J. Yuan, V.R. Shirsat, B. Rad, and M.M. Maharbiz, [_Applying machine learning to the flagellar motor for biosensing_](https://ieeexplore.ieee.org/document/8512907),'' *Proceedings of 2018 IEEE Engineering in Medicine and Biology Conference*, July 2018.
 - **T.J. Zajdel**, A.M. Walczak, D. Sengupta, V. Tieu, B. Rad, and M.M. Maharbiz, [_Towards a biohybrid sensing platform built on impedance-based bacterial flagellar motor tachometry_](http://ieeexplore.ieee.org/document/8325135/), *Proceedings of 2017 IEEE BioCAS Conference*, October 2017.
 - **T.J. Zajdel** and M.M. Maharbiz, [_Teaching design with a tinkering-driven robot hack_](http://ieeexplore.ieee.org/document/7757484/), *Proceedings of 2016 IEEE Frontiers in Education Conference*, October 2016. 

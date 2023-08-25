@@ -20,10 +20,14 @@ permalink: /teaching/
 | Spring 2023 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-taught with [Greg Kesden](https://www.andrew.cmu.edu/user/gkesden/)) |
 | Fall 2022 | [18-095: Getting Started in Electronics](/files/18095_flyer_v2.pdf) |
 | Fall 2022 | [18-358: Introduction to Amateur Radio](/ece059/) |
-| Fall 2022 | [18-729: Board-Level RF Systems for the Internet-of-Things](/files/18729-MIMO-RF-1-page-flyer.pdf) (co-teaching with [Rick Carley](https://www.ece.cmu.edu/directory/bios/carley-rick.html))|
+| Fall 2022 | [18-729: Board-Level RF Systems for the Internet-of-Things](/files/18729-MIMO-RF-1-page-flyer.pdf) (co-taught with [Rick Carley](https://www.ece.cmu.edu/directory/bios/carley-rick.html))|
 | Spring 2022 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-taught with [Greg Kesden](https://www.andrew.cmu.edu/user/gkesden/)) |
 | Spring 2022 Mini | [18-358: Introduction to Amateur Radio](/ece059/) |
 | Fall 2021 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-taught with [Jimmy Zhu](https://engineering.cmu.edu/directory/bios/zhu-jiangang.html)) |
+
+<!--## Projects
+# *18095*: Electronics for non-majors
+
 
 ## Previous Projects
 # *EE40LX*: Analog circuits MOOC for all
@@ -45,7 +49,7 @@ laboratory curriculum to teach practical electronics to
 mechanics-in-training in Zambia's Northern Technical College (NORTEC). The course used best practices in 
 problem-based learning to develop prototyping and circuit debugging skills to prepare trainees for entry in the growing excavation and transport industries.
 I also facilitated an on-site workshop with instructors on laboratory pedagogy and lecturing techniques for this material.
-- [ZAMITA, Zambia: Public-Private Development Partnership](https://lkdfacility.org/zamita-zambia/)
+- [ZAMITA, Zambia: Public-Private Development Partnership](https://lkdfacility.org/zamita-zambia/)-->
 
 <!--## Prior Experience
 

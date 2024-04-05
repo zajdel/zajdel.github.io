@@ -4,9 +4,9 @@ title: 18-059
 permalink: /ece059/
 ---
 
-## Introduction to Amateur Radio
+### Introduction to Amateur Radio
 
-# Course Description
+## Course Description
 Amateur radio is a pursuit that encompasses equal parts technology, communication, and public safety. It began in the US with the Radio Act of 1912, which guaranteed use of the electromagnetic spectrum to the people, provided they demonstrated the requisite technical competence. These privileges have persisted to the present day, with a vibrant global community of radio amateurs (hams) utilizing the spectrum to tinker and experiment with wireless communications for satellites, drone control, low-power communication, radio astronomy, and so on!
 
 This course will introduce students to the history, art, and science of radio with emphasis on hands-on demonstrations and in-class projects, including soldering a low-power FM transmitter and building a directional antenna. Students will also self-study to pass an amateur radio licensing exam administered on campus, which unlocks the electromagnetic spectrum for personal, non-commercial use. Radio service for public safety is tightly woven into the cultural fabric of the Buggy tradition at Carnegie Mellon, and becoming licensed is the first step to getting involved!
@@ -22,32 +22,33 @@ Topics covered include:
 
 Anyone interested in becoming a licensed amateur radio user is welcome regardless of major or prior background!
 
-# Instructor
+## Instructor
 Tom Zajdel (AI6CU)<br/>
 Hamerschlag Hall A210<br/>
 tzajdel@andrew.cmu.edu
 
-# Prequisites
+## Prequisites
 None
 
-# Reference
+## Reference
 The reference used for this class is the [ARRL Ham Radio License Manual](https://www.amazon.com/dp/1625951558/ref=sspa_dk_detail_0?psc=1&pd_rd_i=1625951558&). Lectures will primarily provide context for self-study.
 
-# Grading Criteria
+## Grading Criteria
 This course is 3 units letter-graded. Each assignment is worth a certain number of points. Not all assignments must be completed to earn an A, so you may pick what seems like the most interesting way for you to engage with the class.
 
-## Letter Grade Cutoffs
+# Letter Grade Cutoffs
 - A - 10 points or more
 - B - 8 to 9 points
 - C - 5 to 7 points
 - R - 4 points or lower
 
-## Assignment Options
+# Assignment Options
+
 | **5-7 Points**<br>***Getting Licensed*** | **1 Point**<br>***Getting Hands-on*** | **2 points**<br>***Getting Involved*** | **4 points**<br>***Getting Buggy-Involved*** |
 | --- | --- | --- | --- |
+| Tech | +1 | +2 | +4 |
 
-
-# Spring 2024 Schedule
+## Spring 2024 Schedule
 
 | Week |  Date | Topic<br>*Activity* | Reading |
 | --- | --- | --- | --- |
@@ -67,7 +68,7 @@ This course is 3 units letter-graded. Each assignment is worth a certain number 
 |13 | 17-Apr | Commercial wireless: WiFi, 5G, and beyond OR Field Day (weather permitting)<br>*Scotty Net* | |
 |14 | 24-Apr | Commercial wireless: WiFi, 5G, and beyond OR Field Day (weather permitting)<br>*Scotty Net* | |
 
-# Links
+## Links
 - [W3VC - Carnegie Tech Radio Club](http://www.w3vc.org/)
 - [WebSDR - Listen to Shortwave on the Internet](http://www.websdr.org/)
 - [ARRL - Amateur Radio Relay League](http://www.arrl.org/what-is-ham-radio)

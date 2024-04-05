@@ -18,8 +18,9 @@ Topics covered include:
 - Radio wave propagation
 - Radio equipment
 - Norms and culture of amateur radio communication
+- Operating regulations and safety
 
-Operating regulations and safety Anyone interested in becoming a licensed amateur radio user is welcome regardless of major or prior background!
+Anyone interested in becoming a licensed amateur radio user is welcome regardless of major or prior background!
 
 # Instructor
 Tom Zajdel (AI6CU)<br/>
@@ -33,31 +34,38 @@ None
 The reference used for this class is the [ARRL Ham Radio License Manual](https://www.amazon.com/dp/1625951558/ref=sspa_dk_detail_0?psc=1&pd_rd_i=1625951558&). Lectures will primarily provide context for self-study.
 
 # Grading Criteria
-This course is 3 units graded P/N. To pass the course *7* points must be earned by completing various assignments. Not all assignments are required, so you may pick the most interesting way for you to engage with the class.
-- Get Licensed or Upgrade License (5-7 points)
-- Shack Night QSO (1 point)
-- Scotty Net Check-in (1 point)
-- Reflection (1 point)
-- Buggy Net (2 points)
+This course is 3 units letter-graded. Each assignment is worth a certain number of points. Not all assignments must be completed to earn an A, so you may pick what seems like the most interesting way for you to engage with the class.
 
-# Spring 2023 Schedule (Tentative, subject to change/shuffling depending on weather)
+## Letter Grade Cutoffs
+- A - 10 points or more
+- B - 8 to 9 points
+- C - 5 to 7 points
+- R - 4 points or lower
 
-| Week | Day | Date | Topic | Demo | Reference |
-| --- | --- | --- | --- | --- | --- |
-| 1 | W | 18-Jan | What is Amateur Radio? | Short Wave Listening | Chapter 1 |
-| 2 | W | 25-Jan | Signal Fundamentals | FLDIGI | Chapter 2 |
-| 3 | W | 1-Feb  | Electricity, Components, and Circuits | | Chapter 3 |
-| 4 | W | 8-Feb  | Project: FM Transmitter Build | [Soldering](https://www.youtube.com/watch?v=Qps9woUGkvI) |
-| 5 | W | 15-Feb | Radio Equipment | UV-5R Handheld Transceiver | Chapter 5 |
-| 6 | W | 22-Feb | Antennas and Feedlines | Tuning | Chapter 4 |
-| 7 | W | 1-Mar  | Propagation |  | Chapter 4 |
-| 8 | W | 15-Mar | Rules and Norms of Ham Radio | In-Class Net | Chapters 6-8 |
-| 9 | W | 22-Mar | **Licensing Exam in WEH 6403, 6 pm** |  |
-|10 | W | 29-Mar | Project: Yagi-Uda Build |  |
-|11 | W | 5-Apr  | Field Day |  |
-|12 | W | 12-Apr | The Art of CW | |
-|13 | W | 19-Apr | Working Satellites | |
-|14 | W | 26-Apr | Commercial wireless: WiFi, 5G, and beyond | |
+## Assignment Options
+| **5-7 Points**<br>***Getting Licensed*** | **1 Point**<br>***Getting Hands-on*** | **2 points**<br>***Getting Involved*** | **4 points**<br>***Getting Buggy-Involved*** |
+
+
+
+# Spring 2024 Schedule
+
+| Week | Day | Date | Topic<br>*Activity* | Reading |
+| --- | --- | --- | --- | --- |
+| 1 | W | 17-Jan | What is Amateur Radio?<br>*Short Wave Listening* | Chapter 1 |
+| 2 | W | 24-Jan | Signal Fundamentals<br>*FLDIGI* | Chapter 2 |
+| 3 | W | 31-Jan  | Rules and Norms of Ham Radio<br>*18059 Net* | Chapter 6-8 |
+| 4 | W | 7-Feb  | Radio Equipment<br>*Using the UV-5R HT* | Chapter 5 |
+| 5 | W | 14-Feb | Electricity, Components, and Circuits<br>*FM Transmitter Build (outside of class)* | Chapter 3<br>[Soldering](https://www.youtube.com/watch?v=Qps9woUGkvI) |
+| 6 | W | 21-Feb | Antennas and Feedlines |  Chapter 4 |
+| 7 | W | 28-Feb  | Propagation |  Chapter 4 |
+| - | W | 6-Mar | Fall Break - no class | |
+| 8 | W | 13-Mar | **Licensing Exam, 7 pm** |  |
+| 9 | W | 20-Mar | *Antenna Build* |  |
+|10 | W | 27-Mar | *Hands-on with RTL-SDR*<br>*Scotty Net* | |
+|11 | W | 3-Apr  | Buggy Net and the Art of CW<br>*LCWO, Morsle, Scotty Net* | |
+|12 | W | 10-Apr | Carnival - no class<br>*Scotty Net* | |
+|13 | W | 17-Apr | Commercial wireless: WiFi, 5G, and beyond OR Field Day (weather permitting)<br>*Scotty Net* | |
+|14 | W | 24-Apr | Commercial wireless: WiFi, 5G, and beyond OR Field Day (weather permitting)<br>*Scotty Net* | |
 
 # Links
 - [W3VC - Carnegie Tech Radio Club](http://www.w3vc.org/)

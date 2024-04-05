@@ -8,13 +8,16 @@ permalink: /teaching/
 
 | Date | Course | 
 | --- | --- |
-| Fall 2023 | [18-095: Getting Started in Electronics](/files/18095_flyer_v2.pdf) |
-| Fall 2023 | [18-240: Structure and Design of Digital Systems](https://courses.ece.cmu.edu/18240) (co-teaching with [Bill Nace](https://www.ece.cmu.edu/directory/bios/nace-bill.html)) |
+| Spring 2024 | [18-059: Introduction to Amateur Radio](/ece059/) |
+| Spring 2024 | [18-095: Getting Started in Electronics](/files/18095_flyer_v2.pdf) |
+| Spring 2024 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-taught with [Greg Kesden](https://www.andrew.cmu.edu/user/gkesden/)) |
 
 ## Previous Courses
 
 | Date | Course | 
 | --- | --- |
+| Fall 2023 | [18-095: Getting Started in Electronics](https://courses.ece.cmu.edu/18095)) |
+| Fall 2023 | [18-240: Structure and Design of Digital Systems](https://courses.ece.cmu.edu/18240) (co-taught with [Bill Nace](https://www.ece.cmu.edu/directory/bios/nace-bill.html)) |
 | Spring 2023 | [18-059: Introduction to Amateur Radio](/ece059/) |
 | Spring 2023 | [18-095: Getting Started in Electronics](/files/18095_flyer_v2.pdf) |
 | Spring 2023 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-taught with [Greg Kesden](https://www.andrew.cmu.edu/user/gkesden/)) |

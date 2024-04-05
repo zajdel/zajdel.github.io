@@ -44,28 +44,28 @@ This course is 3 units letter-graded. Each assignment is worth a certain number 
 
 ## Assignment Options
 | **5-7 Points**<br>***Getting Licensed*** | **1 Point**<br>***Getting Hands-on*** | **2 points**<br>***Getting Involved*** | **4 points**<br>***Getting Buggy-Involved*** |
-
+| --- | --- | --- | --- |
 
 
 # Spring 2024 Schedule
 
-| Week | Day | Date | Topic<br>*Activity* | Reading |
-| --- | --- | --- | --- | --- |
-| 1 | W | 17-Jan | What is Amateur Radio?<br>*Short Wave Listening* | Chapter 1 |
-| 2 | W | 24-Jan | Signal Fundamentals<br>*FLDIGI* | Chapter 2 |
-| 3 | W | 31-Jan  | Rules and Norms of Ham Radio<br>*18059 Net* | Chapter 6-8 |
-| 4 | W | 7-Feb  | Radio Equipment<br>*Using the UV-5R HT* | Chapter 5 |
-| 5 | W | 14-Feb | Electricity, Components, and Circuits<br>*FM Transmitter Build (outside of class)* | Chapter 3<br>[Soldering](https://www.youtube.com/watch?v=Qps9woUGkvI) |
-| 6 | W | 21-Feb | Antennas and Feedlines |  Chapter 4 |
-| 7 | W | 28-Feb  | Propagation |  Chapter 4 |
-| - | W | 6-Mar | Fall Break - no class | |
-| 8 | W | 13-Mar | **Licensing Exam, 7 pm** |  |
-| 9 | W | 20-Mar | *Antenna Build* |  |
-|10 | W | 27-Mar | *Hands-on with RTL-SDR*<br>*Scotty Net* | |
-|11 | W | 3-Apr  | Buggy Net and the Art of CW<br>*LCWO, Morsle, Scotty Net* | |
-|12 | W | 10-Apr | Carnival - no class<br>*Scotty Net* | |
-|13 | W | 17-Apr | Commercial wireless: WiFi, 5G, and beyond OR Field Day (weather permitting)<br>*Scotty Net* | |
-|14 | W | 24-Apr | Commercial wireless: WiFi, 5G, and beyond OR Field Day (weather permitting)<br>*Scotty Net* | |
+| Week |  Date | Topic<br>*Activity* | Reading |
+| --- | --- | --- | --- |
+| 1 | 17-Jan | What is Amateur Radio?<br>*Short Wave Listening* | Chapter 1 |
+| 2 | 24-Jan | Signal Fundamentals<br>*FLDIGI* | Chapter 2 |
+| 3 | 31-Jan  | Rules and Norms of Ham Radio<br>*18059 Net* | Chapter 6-8 |
+| 4 | 7-Feb  | Radio Equipment<br>*Using the UV-5R HT* | Chapter 5 |
+| 5 | 14-Feb | Electricity, Components, and Circuits<br>*FM Transmitter Build (outside of class)* | Chapter 3<br>[Soldering](https://www.youtube.com/watch?v=Qps9woUGkvI) |
+| 6 | 21-Feb | Antennas and Feedlines |  Chapter 4 |
+| 7 | 28-Feb  | Propagation |  Chapter 4 |
+| - | 6-Mar | Fall Break - no class | |
+| 8 | 13-Mar | **Licensing Exam, 7 pm** |  |
+| 9 | 20-Mar | *Antenna Build* |  |
+|10 | 27-Mar | *Hands-on with RTL-SDR*<br>*Scotty Net* | |
+|11 | 3-Apr  | Buggy Net and the Art of CW<br>*LCWO, Morsle, Scotty Net* | |
+|12 | 10-Apr | Carnival - no class<br>*Scotty Net* | |
+|13 | 17-Apr | Commercial wireless: WiFi, 5G, and beyond OR Field Day (weather permitting)<br>*Scotty Net* | |
+|14 | 24-Apr | Commercial wireless: WiFi, 5G, and beyond OR Field Day (weather permitting)<br>*Scotty Net* | |
 
 # Links
 - [W3VC - Carnegie Tech Radio Club](http://www.w3vc.org/)

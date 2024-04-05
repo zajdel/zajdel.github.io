@@ -6,16 +6,16 @@ permalink: /research/
 
 The term **bioelectricity** might conjure up images of Victor Frankenstein, 
 or perhaps unscrupulous quack doctors in traveling medicine shows. 
-Despite the warped public perception, electrochemical potentials are indeed a fact of life, 
-influencing processes in transport, metabolism, computation, and development across all the biological kingdoms.
-By developing devices that interface with these bioelectric systems, engineers may be able to observe
-or even control these processes for sensing, manufacturing, or medical applications that were not possible before.
+Despite the warped public perception, electrochemical potentials are a fact of life, 
+influencing processes in transport, metabolism, computation, and development across all biological kingdoms.
+By developing devices that interface with bioelectric systems, engineers may be able to observe
+or even control these processes for novel sensing, manufacturing, or medical applications.
 
 There's a complication: the wet, salty electrochemistry that comprises most bioelectric systems is not immediately
 compatible with the integrated circuits that drive our digital world.
 Care must be taken at the interface between electronics and living organisms to keep both the electronics and organisms happy.
-This interface has been at the core of my research work, whether it involves the electroactive bacterium *Shewanella oneidensis* 
-or skin cells sheepherded in a petri dish.
+This interface has been at the core of my research work, whether it involves the lake-dwelling electroactive bacterium *Shewanella oneidensis* 
+or mammalian skin cells sheepherded in a petri dish.
 
 ## Past
 # SCHEEPDOG: Steering cell motion with electrical stimulation

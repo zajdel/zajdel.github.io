@@ -13,9 +13,9 @@ permalink: /teaching/
 
 ## Previously Taught Courses
 
-[18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-taught with [Greg Kesden](https://www.andrew.cmu.edu/user/gkesden/)) |
-[18-240: Structure and Design of Digital Systems](https://courses.ece.cmu.edu/18240) (co-taught with [Bill Nace](https://www.ece.cmu.edu/directory/bios/nace-bill.html)) |
-[18-729: Board-Level RF Systems for the Internet-of-Things](/files/18729-MIMO-RF-1-page-flyer.pdf) (co-taught with [Rick Carley](https://www.ece.cmu.edu/directory/bios/carley-rick.html))|
+| [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-taught with [Greg Kesden](https://www.andrew.cmu.edu/user/gkesden/)) |
+| [18-240: Structure and Design of Digital Systems](https://courses.ece.cmu.edu/18240) (co-taught with [Bill Nace](https://www.ece.cmu.edu/directory/bios/nace-bill.html)) |
+| [18-729: Board-Level RF Systems for the Internet-of-Things](/files/18729-MIMO-RF-1-page-flyer.pdf) (co-taught with [Rick Carley](https://www.ece.cmu.edu/directory/bios/carley-rick.html)) |
 
 ## Projects
 # *Getting Started in Electronics*: Electronics for non-majors

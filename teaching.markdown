@@ -8,14 +8,21 @@ permalink: /teaching/
 
 | Date | Course | 
 | --- | --- |
-| Spring 2024 | [18-059: Introduction to Amateur Radio](/ece059/) |
-| Spring 2024 | [18-095: Getting Started in Electronics](/files/18095_flyer_v2.pdf) |
+| Spring 2026 | [18-059: Introduction to Amateur Radio](/ece059/) |
+| Spring 2026 | [18-095: Getting Started in Electronics](/files/18095_flyer_v2.pdf) |
+| Spring 2026 | [18-220: Electronic Devices and Analog Circuits](https://courses.ece.cmu.edu/18220) (co-taught with Mark Budnik) |
 
-## Previously Taught Courses
 
-| [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-taught with [Greg Kesden](https://www.andrew.cmu.edu/user/gkesden/)) |
-| [18-240: Structure and Design of Digital Systems](https://courses.ece.cmu.edu/18240) (co-taught with [Bill Nace](https://www.ece.cmu.edu/directory/bios/nace-bill.html)) |
-| [18-729: Board-Level RF Systems for the Internet-of-Things](/files/18729-MIMO-RF-1-page-flyer.pdf) (co-taught with [Rick Carley](https://www.ece.cmu.edu/directory/bios/carley-rick.html)) |
+## Previous Courses
+
+| Course | No. Sems Taught | Last Sem Taught | Co-instructors |
+| --- | --- | --- | --- |
+| [18-059: Introduction to Amateur Radio](https://courses.ece.cmu.edu/18059) | 5 | Spring 2026 |  |
+| [18-095: Getting Started in Electronics](https://courses.ece.cmu.edu/18095) | 8 | Spring 2026 | Ziad Youssfi |
+| [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) | 4 | Spring 2024 | Greg Kesden, Jimmy Zhu | 
+| [18-220: Electronic Devices and Analog Circuits](https://courses.ece.cmu.edu/18220) | 4 | Spring 2026 | Mark Budnik |
+| [18-240: Structure and Design of Digital Systems](https://courses.ece.cmu.edu/18240) | 2 | Fall 2024 | Bill Nace |
+| [18-729: Board-Level RF Systems for the Internet-of-Things](/files/18729-MIMO-RF-1-page-flyer.pdf) | 1 | Fall 2022 | [Rick Carley](https://www.ece.cmu.edu/directory/bios/carley-rick.html) |
 
 ## Projects
 # *Getting Started in Electronics*: Electronics for non-majors

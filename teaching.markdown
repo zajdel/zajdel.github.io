@@ -26,8 +26,13 @@ permalink: /teaching/
 
 ## Projects
 # *Getting Started in Electronics*: Electronics for non-majors
-
+ 
+- G. Verrengia, '_Getting Started in Electronics_](https://www.ece.cmu.edu/news-and-events/story/2023/07/getting-started-in-electronics.html), *CMU College of Engineering News and Events*, 28 July 2023.
+  
 # *Introduction to Amateur Radio*: Amateur radio a la carte
+- T. Riley, [_In the age of satellites, cell towers and web servers, CMU offers amateur radio course_](https://www.wesa.fm/education/2024-05-23/in-the-age-of-satellites-cell-towers-and-web-servers-cmu-offers-amateur-radio-course), *90.5 WESA*, 23 May 2024.
+- L. Shea, [_Amateur radio for aspiring professionals_](https://engineering.cmu.edu/news-events/news/2024/05/31-ham-radio.html), *CMU College of Engineering News and Events*, 30 May 2024.
+- [Kicker: This college class is also a class of amateur radio license](https://www.arnewsline.org/news/2024/6/6/amateur-radio-newsline-report-2432-for-friday-june-7th-2024), *Amateur Radio Newsline*, 7 June 2024.
 
 ## Previous Projects
 # *EE40LX*: Analog circuits MOOC for all

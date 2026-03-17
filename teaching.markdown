@@ -15,7 +15,7 @@ permalink: /teaching/
 
 ## Previous Courses
 
-| Course | No. Sems Taught | Last Sem Taught | Co-instructors |
+| Course | No. Sems | Last Sem Taught | Co-instructors |
 | --- | --- | --- | --- |
 | [18-059: Introduction to Amateur Radio](https://courses.ece.cmu.edu/18059) | 5 | Spring 2026 |  |
 | [18-095: Getting Started in Electronics](https://courses.ece.cmu.edu/18095) | 8 | Spring 2026 | Ziad Youssfi |

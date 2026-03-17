@@ -10,27 +10,17 @@ permalink: /teaching/
 | --- | --- |
 | Spring 2024 | [18-059: Introduction to Amateur Radio](/ece059/) |
 | Spring 2024 | [18-095: Getting Started in Electronics](/files/18095_flyer_v2.pdf) |
-| Spring 2024 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-taught with [Greg Kesden](https://www.andrew.cmu.edu/user/gkesden/)) |
 
-## Previous Courses
+## Previously Taught Courses
 
-| Date | Course | 
-| --- | --- |
-| Fall 2023 | [18-095: Getting Started in Electronics](https://courses.ece.cmu.edu/18095) |
-| Fall 2023 | [18-240: Structure and Design of Digital Systems](https://courses.ece.cmu.edu/18240) (co-taught with [Bill Nace](https://www.ece.cmu.edu/directory/bios/nace-bill.html)) |
-| Spring 2023 | [18-059: Introduction to Amateur Radio](/ece059/) |
-| Spring 2023 | [18-095: Getting Started in Electronics](/files/18095_flyer_v2.pdf) |
-| Spring 2023 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-taught with [Greg Kesden](https://www.andrew.cmu.edu/user/gkesden/)) |
-| Fall 2022 | [18-095: Getting Started in Electronics](/files/18095_flyer_v2.pdf) |
-| Fall 2022 | [18-358: Introduction to Amateur Radio](/ece059/) |
-| Fall 2022 | [18-729: Board-Level RF Systems for the Internet-of-Things](/files/18729-MIMO-RF-1-page-flyer.pdf) (co-taught with [Rick Carley](https://www.ece.cmu.edu/directory/bios/carley-rick.html))|
-| Spring 2022 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-taught with [Greg Kesden](https://www.andrew.cmu.edu/user/gkesden/)) |
-| Spring 2022 Mini | [18-358: Introduction to Amateur Radio](/ece059/) |
-| Fall 2021 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-taught with [Jimmy Zhu](https://engineering.cmu.edu/directory/bios/zhu-jiangang.html)) |
+[18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) (co-taught with [Greg Kesden](https://www.andrew.cmu.edu/user/gkesden/)) |
+[18-240: Structure and Design of Digital Systems](https://courses.ece.cmu.edu/18240) (co-taught with [Bill Nace](https://www.ece.cmu.edu/directory/bios/nace-bill.html)) |
+[18-729: Board-Level RF Systems for the Internet-of-Things](/files/18729-MIMO-RF-1-page-flyer.pdf) (co-taught with [Rick Carley](https://www.ece.cmu.edu/directory/bios/carley-rick.html))|
 
-<!--## Projects
-# *18095*: Electronics for non-majors
+## Projects
+# *Getting Started in Electronics*: Electronics for non-majors
 
+# *Introduction to Amateur Radio*: Amateur radio a la carte
 
 ## Previous Projects
 # *EE40LX*: Analog circuits MOOC for all
@@ -44,7 +34,7 @@ Over 80000 students enrolled from over 190 nations, and >2200 students completed
 - D. McGlynn, [_To teach the world robotics_](https://engineering.berkeley.edu/news/2015/06/to-teach-the-world-robotics/), *Berkeley Engineer*, June 2015.
 - A. Pizano, [_Berkeley MOOC offers hardware-based engineering training_](https://e2e.ti.com/blogs_/archives/b/designproject/archive/2014/10/16/berkeley-mooc-offers-hardware-based-engineering-training-for-all), *E2E Texas Instruments*, October 2014.
 
-# *Applied Electrical I*: Practical laboratory curriculum for technicians
+<!-- # *Applied Electrical I*: Practical laboratory curriculum for technicians
 <img width="700" title="EE40LX: Electronic Interfaces" src="/img/nortec_banner.PNG">
 
 During spring 2016, I consulted with [ZAMITA](https://lkdfacility.org/zamita-zambia/) to develop hands-on 

@@ -22,7 +22,7 @@ permalink: /teaching/
 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) | 4 | Spring 2024 | Greg Kesden, Jimmy Zhu | 
 | [18-220: Electronic Devices and Analog Circuits](https://courses.ece.cmu.edu/18220) | 4 | Spring 2026 | Mark Budnik |
 | [18-240: Structure and Design of Digital Systems](https://courses.ece.cmu.edu/18240) | 2 | Fall 2024 | Bill Nace |
-| [18-729: Board-Level RF Systems for the Internet-of-Things](/files/18729-MIMO-RF-1-page-flyer.pdf) | 1 | Fall 2022 | [Rick Carley](https://www.ece.cmu.edu/directory/bios/carley-rick.html) |
+| [18-727: Board-Level RF Systems for the Internet-of-Things](/files/18729-MIMO-RF-1-page-flyer.pdf) | 1 | Fall 2022 | [Rick Carley](https://www.ece.cmu.edu/directory/bios/carley-rick.html) |
 
 ## Projects
 # *Getting Started in Electronics*: Electronics for non-majors

@@ -17,7 +17,7 @@ permalink: /teaching/
 
 | Course | No. Sems | Last Sem Taught | Co-instructors |
 | --- | --- | --- | --- |
-| [18-059: Introduction to Amateur Radio](https://courses.ece.cmu.edu/18059) | 5 | Spring 2026 |  |
+| [18-059: Introduction to Amateur Radio](https://courses.ece.cmu.edu/18059) | 6 | Spring 2026 |  |
 | [18-095: Getting Started in Electronics](https://courses.ece.cmu.edu/18095) | 8 | Spring 2026 | Ziad Youssfi |
 | [18-100: Introduction to ECE](https://courses.ece.cmu.edu/18100) | 4 | Spring 2024 | Greg Kesden, Jimmy Zhu | 
 | [18-220: Electronic Devices and Analog Circuits](https://courses.ece.cmu.edu/18220) | 4 | Spring 2026 | Mark Budnik |

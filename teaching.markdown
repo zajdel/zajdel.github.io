@@ -4,16 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Current/Upcoming Courses
-
-| Date | Course | 
-| --- | --- |
-| Spring 2026 | [18-059: Introduction to Amateur Radio](/ece059/) |
-| Spring 2026 | [18-095: Getting Started in Electronics](/files/18095_flyer_v2.pdf) |
-| Spring 2026 | [18-220: Electronic Devices and Analog Circuits](https://courses.ece.cmu.edu/18220) (co-taught with Mark Budnik) |
-
-
-## Previous Courses
+## Courses Taught
 
 | Course | No. Sems | Last Sem Taught | Co-instructors |
 | --- | --- | --- | --- |

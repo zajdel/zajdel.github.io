@@ -13,10 +13,10 @@ permalink: /publications/
 - L. Su\*, T. Fukushima\*, A. Prior, M. Baruch, **T.J. Zajdel**, C.M. Ajo-Franklin, [_Enhancing current production in engineered E. coli by modifying the cytochrome c maturation pathway_](https://pubs.acs.org/doi/abs/10.1021/acssynbio.9b00379), *ACS Synthetic Biology*, vol. 9, no. 1, pp. 115-124, 2019.
 - **T.J. Zajdel\***, M. Baruch\*, G. Mehes\*, E. Stavrinidou, M. Berggren, M.M. Maharbiz, D.T. Simon, C.M. Ajo-Franklin, [_PEDOT:PSS-based multilayer bacterial-composite films for bioelectronics_](https://www.nature.com/articles/s41598-018-33521-9), *Scientific Reports*, vol. 8, p. 1529314, 2018.
 - M.A. TerAvest, **T.J. Zajdel**, and C.M. Ajo-Franlkin, [_Mtr pathway of Shewanella oneidensis MR-1 couples substrate utilization to current production in Escherichia coli_](http://onlinelibrary.wiley.com/doi/10.1002/celc.201402194/abstract), *ChemElectroChem*, vol. 1, no. 11, pp. 1874-1879, 2014.
-- M.A. Demir, J.T. Johnson, and **T.J. Zajdel**, [_A study of the fourth-order small perturbation method for scattering from two-layer rough surfaces_](http://ieeexplore.ieee.org/document/6151123/), *IEEE Transactions on Geoscience
-and Remote Sensing*, vol. 50, no. 9, pp. 3374-3382, 2012.
+- M.A. Demir, J.T. Johnson, and **T.J. Zajdel**, [_A study of the fourth-order small perturbation method for scattering from two-layer rough surfaces_](http://ieeexplore.ieee.org/document/6151123/), *IEEE Transactions on Geoscience and Remote Sensing*, vol. 50, no. 9, pp. 3374-3382, 2012.
 
 # Conference Publications
+- **T.J. Zajdel**, A.C. Pensky, _WIP: The Value of Circuits to Non-Majors_, to be presented at *2026 IEEE Frontiers in Education Conference*, October 2026.
 - **T.J. Zajdel**, H. Yan, _How do amateur radio experiences influence undergraduate student outcomes?_, to be presented at *133rd ASEE Annual Conference and Exposition*, June 2026.
 - **T.J. Zajdel**, A.C. Pensky, [_Introducing Circuits to Non-Majors for Self-Efficacy and Technical Literacy_](https://peer.asee.org/introducing-circuits-to-non-majors-for-self-efficacy-and-technical-literacy), *Proceedings of 132nd ASEE Annual Conference and Exposition*, June 2025.
 - **T.J. Zajdel**, A.C. Pensky, [_WIP: Impact of electronics design experience on non-majors’ self-efficacy and identity_](https://peer.asee.org/board-88-work-in-progress-impact-of-electronics-design-experience-on-non-majors-self-efficacy-and-identity), *Proceedings of 130th ASEE Annual Conference and Exposition*, June 2023.
@@ -29,6 +29,7 @@ and Remote Sensing*, vol. 50, no. 9, pp. 3374-3382, 2012.
 - **T.J. Zajdel**, M.A. TerAvest, B. Rad, C.M. Ajo-Franklin, and M.M. Maharbiz, [_Probing the dynamics of the proton-motive force of E. coli_](http://ieeexplore.ieee.org/document/6985366/), *Proceedings of the 2014 IEEE Sensors Conference*, November 2014.
 
 # Preprints
+- A. Janardanan, S. Sonmezoglu, S. Sonedda, **T.J. Zajdel**, J.L. Flewellen, M. Lester, B. Rad, M.M. Maharbiz, T. Pilizota, [_Integrated Circuit Architecture for Real-Time Sensing with Embedded Microbial Whole-Cell Sensors_](https://doi.org/10.48550/arXiv.2605.19751), *arXiv*, 2026.
 - D. Suo, U. Ghai, E. Minasyan, P. Gradu, X. Chen, N. Agarwal, C. Zhang, K. Singh, J. LaChance, **T. Zajdel**, M. Schottdorf, D. Cohen, and E. Hazan, [*Machine learning for mechanical ventilation control*](https://arxiv.org/abs/2102.06779), *arXiv*, 2021.
 
 # Conference Abstracts

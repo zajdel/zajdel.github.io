@@ -16,7 +16,8 @@ permalink: /teaching/
 | [18-727: Board-Level RF Systems for the Internet-of-Things](/files/18729-MIMO-RF-1-page-flyer.pdf) | 1 | Fall 2022 | [Rick Carley](https://www.ece.cmu.edu/directory/bios/carley-rick.html) |
 
 ## Projects
-# *Getting Started in Electronics*: Electronics for non-majors
+# *Getting Started in Electronics*: Circuits for non-majors
+- **T.J. Zajdel**, A.C. Pensky, _WIP: The Value of Circuits to Non-Majors_, to be presented at *2026 IEEE Frontiers in Education Conference*, October 2026.
 - **T.J. Zajdel**, A.C. Pensky, [_Introducing Circuits to Non-Majors for Self-Efficacy and Technical Literacy_](https://peer.asee.org/introducing-circuits-to-non-majors-for-self-efficacy-and-technical-literacy), *Proceedings of 132nd ASEE Annual Conference and Exposition*, June 2025.
 - G. Verrengia, [_Getting Started in Electronics_](https://www.ece.cmu.edu/news-and-events/story/2023/07/getting-started-in-electronics.html), *CMU College of Engineering News and Events*, 28 July 2023.
   

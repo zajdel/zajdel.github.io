@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 # Journal Publications
+- I.B. Breinyn, Y. Lin, S. Rao, G. Shim, **T.J.Zajdel**, D.J. Cohen, *Bioelectric stimulation of cultured cells and organoids in a perfusion imaging device*, *Nature Protocols*, in press.
 - J. LaChance, M. Schottdorf, **T.J. Zajdel**, J.L. Saunders, S. Dvali, C. Marshall, L. Seirup, D.A. Notterman, D.J. Cohen, [*PVP1–The People’s Ventilator Project: A fully open, low-cost, pressure-controlled ventilator research platform compatible with adult and pediatric uses*](https://doi.org/10.1371/journal.pone.0266810), *PLOS One*, vol. 17, no. 5, p. e0266810, 2022.
 - A.E. Wolf, M.A. Heinrich, I.B. Breinyn, **T.J. Zajdel**, D.J. Cohen, [*Short-term stimulation of collective cell migration in tissues reprograms long-term supracellular dynamics*](https://doi.org/10.1093/pnasnexus/pgac002), *PNAS nexus*, vol. 1, no. 1, p. pgac002, 2021.
 - **T.J. Zajdel**, G. Shim, and D.J. Cohen, [*Come together: On-chip bioelectric wound closure*](https://doi.org/10.1016/j.bios.2021.113479), *Biosensors and Bioelectronics*, vol. 192, p. 113479, 2021.

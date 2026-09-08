@@ -4,6 +4,12 @@ title: 18-358
 permalink: /ece358/
 ---
 
+<meta http-equiv="refresh" content="0; url=/ece18059/">
+<script>window.location.replace("/ece18059/");</script>
+
+This page has moved. [Click here if you are not redirected.](/ece18059/)
+
+<!--
 ## Special Topics in Communication - Introduction to Amateur Radio
 
 # Course Description
@@ -57,3 +63,4 @@ Some Wednesdays are *project days* that will run from 7:00pm to 8:20pm to allow 
 - [W3VC - Carnegie Tech Radio Club](http://www.w3vc.org/)
 - [WebSDR - Listen to Shortwave on the Internet](http://www.websdr.org/)
 - [ARRL - Amateur Radio Relay League](http://www.arrl.org/what-is-ham-radio)
+-->
